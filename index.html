@@ -10,7 +10,7 @@
     <meta name="keywords" content="" />
     <meta name="author" content="Awaiken" />
     <!-- Page Title -->
-    <title>Dentaire - Dentist & Dental Clinic HTML Template</title>
+    <!-- <title>Dentaire - Dentist & Dental Clinic HTML Template</title> -->
     <!-- Favicon Icon -->
     <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
     <!-- Google Fonts Css-->
@@ -235,7 +235,7 @@
               </div>
               <div class="cta-box-content">
                 <h3>need dental services ?</h3>
-                <p>Call on : (+01) 987 828 745</p>
+                <p>Call on :<span id="phone"></span></p>
               </div>
             </div>
           </div>
@@ -1708,13 +1708,17 @@
         .then((response) => response.json())
         .then((data) => {
           const clinicEl = document.getElementById("clinicname");
+          const phoneEl = document.getElementById("phone");
 
           const doctor = data.find((item) => item.slug === slug);
 
           if (doctor) {
+            document.title = doctor.clinic;
             clinicEl.textContent = doctor.clinic;
+            phoneEl.textContent = doctor.phone;
           } else {
-            clinicEl.textContent = " ";
+            clinicEl.textContent = "Dental Care";
+            phoneEl.textContent = "(+01) 987 828 000";
           }
         })
         .catch((error) => console.log("Error:", error));

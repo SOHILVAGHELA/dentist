@@ -1,22 +1,16 @@
 [
-  {
+  { 
     "id": 1,
-    "slug": "dr-shah",
-    "name": "Dr Shah",
-    "clinic": "Smile Care Dental"
-  },
-  {
-    "id": 2,
-    "slug": "dr-mehta",
-    "name": "Dr Mehta",
-    "clinic": "Dental Hub"
-  },
-  {
-    
-    "id": 3,
-    "slug": "dr-sharma",
+    "slug": "tcn-dental-care-pc",
     "name": "Dr Sharma",
     "clinic": "TCN Dental Care PC",
     "phone":"(718) 523-8400"
+  },
+  {   
+    "id": 2,
+    "slug": "queens-children-dentist",
+    "name": "Dr Sharma",
+    "clinic": "Queens Children Dentist",
+    "phone":"(718) 805-7777"
   }
 ]

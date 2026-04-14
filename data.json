@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "slug": "dr-shah",
+    "name": "Dr Shah",
+    "clinic": "Smile Care Dental"
+  },
+  {
+    "id": 2,
+    "slug": "dr-mehta",
+    "name": "Dr Mehta",
+    "clinic": "Dental Hub"
+  },
+  {
+    
+    "id": 3,
+    "slug": "dr-sharma",
+    "name": "Dr Sharma",
+    "clinic": "TCN Dental Care PC",
+    "phone":"(718) 523-8400"
+  }
+]

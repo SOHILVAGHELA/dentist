@@ -2,15 +2,62 @@
   { 
     "id": 1,
     "slug": "tcn-dental-care-pc",
-    "name": "Dr Sharma",
     "clinic": "TCN Dental Care PC",
     "phone":"(718) 523-8400"
   },
   {   
     "id": 2,
     "slug": "queens-children-dentist",
-    "name": "Dr Sharma",
     "clinic": "Queens Children Dentist",
     "phone":"(718) 805-7777"
-  }
+  },
+  {   
+    "id": 3,
+    "slug": "dr.ruben-aminov-dds",
+    "clinic":"Dr. Ruben Aminov DDS",
+    "phone":"(718) 464-5959"
+  },
+ {   
+    "id": 4,
+    "slug": "guerrino-dentistry-and-associates",
+    "clinic":"Guerrino Dentistry and Associates",
+    "phone":"(914) 699-6568"
+ },
+ {   
+     "id": 5,
+     "slug": "rosedale-dental",
+     "clinic":"Rosedale Dental",
+     "phone":"(718) 569-7024"
+ },
+{   
+     "id": 6,
+     "slug": "ny-dental-implant-center",
+     "clinic":"NY Dental Implant Center",
+     "phone":"(718) 265-6200"
+ },
+{   
+     "id": 7,
+     "slug": "gentle-dental-familycare",
+     "clinic":"Gentle Dental Family Care",
+     "phone":"(718) 849-9797"
+ },
+{   
+     "id": 8,
+     "slug": "villalobos-dental-care",
+     "clinic":"Villalobos Dental Care",
+     "phone":"(201) 865-6740"
+ },
+{   
+     "id": 9,
+     "slug": "el-nuevo-san-juan-health-center",
+     "clinic":"El Nuevo San Juan Health Center- Urban Health Plan",
+     "phone":"(718) 589-2440"
+ },
+{   
+     "id": 10,
+     "slug": "royzman-&-poznyansky",
+     "clinic":"Royzman & Poznyansky, DDS (DENTAL CENTER OF BROOKLYN)",
+     "phone":"(718) 256-2800"
+ }
+
 ]

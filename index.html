@@ -1700,7 +1700,7 @@
     <!-- Main Custom js file -->
     <script src="js/function.js"></script>
     <script src="../../demo.awaikenthemes.com/assets/js/theme-panel.js"></script>
-    <script>
+    <!-- <script>
       const slug = window.location.hash.replace("#/", "");
       console.log("Slug:", slug);
 
@@ -1711,7 +1711,11 @@
           const phoneEl = document.getElementById("phone");
 
           const doctor = data.find((item) => item.slug === slug);
+          if (!doctor) {
+            doctor = data[0];
 
+            window.location.hash = "/" + doctor.slug;
+          }
           if (doctor) {
             document.title = doctor.clinic;
             clinicEl.textContent = doctor.clinic;
@@ -1720,6 +1724,32 @@
             clinicEl.textContent = "Dental Care";
             phoneEl.textContent = "(+01) 987 828 000";
           }
+        })
+        .catch((error) => console.log("Error:", error));
+    </script> -->
+    <script>
+      let slug = window.location.hash.replace("#/", "");
+      console.log("Slug:", slug);
+
+      fetch("data.json")
+        .then((response) => response.json())
+        .then((data) => {
+          const clinicEl = document.getElementById("clinicname");
+          const phoneEl = document.getElementById("phone");
+
+          let doctor = data.find((item) => item.slug === slug);
+
+          // 🔥 agar slug nahi mila
+          if (!doctor) {
+            doctor = data[0];
+
+            // ✅ URL me bhi default slug set karo
+            window.location.hash = "/" + doctor.slug;
+          }
+
+          document.title = doctor.clinic;
+          clinicEl.textContent = doctor.clinic;
+          phoneEl.textContent = doctor.phone;
         })
         .catch((error) => console.log("Error:", error));
     </script>

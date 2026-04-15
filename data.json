@@ -3,61 +3,111 @@
     "id": 1,
     "slug": "tcn-dental-care-pc",
     "clinic": "TCN Dental Care PC",
-    "phone":"(718) 523-8400"
+    "phone":"(718) 523-8400",
+    "gmRating":"4.7",
+    "totalReviews":"759",
+    "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3024.6236770628093!2d-73.798019!3d40.70428499999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c260d929f88167%3A0xe8f8f11e664f9624!2sTCN%20Dental%20Care%20PC!5e0!3m2!1sen!2sin!4v1776255979377!5m2!1sen!2sin",
+    "email":"tcndentalcare@gmail.com",
+    "address":"161-10 Jamaica Ave #313-3, Jamaica, NY 11432, United States"
   },
   {   
     "id": 2,
     "slug": "queens-children-dentist",
     "clinic": "Queens Children Dentist",
-    "phone":"(718) 805-7777"
+    "phone":"(718) 805-7777",
+    "gmRating":"4.7",
+    "totalReviews":"669",
+    "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3025.1280238020613!2d-73.8524312!3d40.693177999999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25dfcbf65dec7%3A0x59ecd73e82589130!2sQueens%20Children%20Dentist!5e0!3m2!1sen!2sin!4v1776267294467!5m2!1sen!2sin","email":"queenschildren@gmail.com",
+    "address":"87-08 Woodhaven Blvd 2nd Floor, Woodhaven, NY 11421, United States"
   },
   {   
     "id": 3,
     "slug": "dr.ruben-aminov-dds",
     "clinic":"Dr. Ruben Aminov DDS",
-    "phone":"(718) 464-5959"
+    "phone":"(718) 464-5959",
+    "gmRating":"5.0",
+    "totalReviews":"740",
+    "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3024.036144884439!2d-73.7411317!3d40.7172208!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c263a809c5bfe9%3A0xc3615908016f0054!2sDr.%20Ruben%20Aminov%20DDS!5e0!3m2!1sen!2sin!4v1776267710603!5m2!1sen!2sin" ,
+    "email":"dr.aminov@gmail.com",
+    "address":"214-81 Jamaica Ave, Queens Village, NY 11428, United States"           
   },
  {   
     "id": 4,
     "slug": "guerrino-dentistry-and-associates",
     "clinic":"Guerrino Dentistry and Associates",
-    "phone":"(914) 699-6568"
+    "phone":"(914) 699-6568",
+    "gmRating":"4.7",
+    "totalReviews":"592",
+    "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3015.665731914975!2d-73.8207645!3d40.90114680000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c28d3d1c84bbe7%3A0xfd7cb52e0a422288!2sGuerrino%20Dentistry%20and%20Associates!5e0!3m2!1sen!2sin!4v1776268048103!5m2!1sen!2sin" ,
+    "email":"guerrino@gmail.com",
+    "address":"400 E Sandford Blvd #2, Mt Vernon, NY 10550, United States"
  },
  {   
      "id": 5,
      "slug": "rosedale-dental",
      "clinic":"Rosedale Dental",
-     "phone":"(718) 569-7024"
+     "phone":"(718) 569-7024",
+     "gmRating":"5.0",
+     "totalReviews":"471",
+     "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3026.7375850876133!2d-73.7415773!3d40.6577146!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c26423de888341%3A0x332ff3f7ebe07aac!2sRosedale%20Dental!5e0!3m2!1sen!2sin!4v1776269345267!5m2!1sen!2sin" ,
+     "email":"rosedale@gmail.com",
+     "address":"146-32 243rd St, Jamaica, NY 11422, United States"
+
  },
 {   
      "id": 6,
      "slug": "ny-dental-implant-center",
      "clinic":"NY Dental Implant Center",
-     "phone":"(718) 265-6200"
+     "phone":"(718) 265-6200",
+     "gmRating":"4.6",
+     "totalReviews":"442",
+     "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3030.38124027119!2d-74.0014078!3d40.57733950000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c245c8fe2e3701%3A0x4d37dc0ca701ee5a!2sNY%20Dental%20Implant%20Center!5e0!3m2!1sen!2sin!4v1776269965360!5m2!1sen!2sin" ,
+     "email":"nydentalimplant@gmail.com",
+     "address":"3375 Neptune Ave, Brooklyn, NY 11224, United States"
  },
 {   
      "id": 7,
      "slug": "gentle-dental-familycare",
      "clinic":"Gentle Dental Family Care",
-     "phone":"(718) 849-9797"
+     "phone":"(718) 849-9797",
+     "gmRating":"4.9",
+     "totalReviews":"406",
+     "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3024.547622411173!2d-73.8329291!3d40.7059597!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c260a507c8dd89%3A0xaa1919adcd4395da!2sGentle%20Dental%20Family%20Care!5e0!3m2!1sen!2sin!4v1776270171977!5m2!1sen!2sin" ,
+     "email":"gentledental@gmail.com",
+     "address":"118-60 Metropolitan Ave Suite # 1B, Kew Gardens, NY 11415, United States"       
  },
 {   
      "id": 8,
      "slug": "villalobos-dental-care",
      "clinic":"Villalobos Dental Care",
-     "phone":"(201) 865-6740"
+     "phone":"(201) 865-6740",
+     "gmRating":"4.8",
+     "totalReviews":"349",
+     "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3021.1043096019794!2d-74.022097!3d40.781720899999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25818ed1edaa3%3A0x8a930bff99599074!2sVillalobos%20Dental%20Care!5e0!3m2!1sen!2sin!4v1776270384476!5m2!1sen!2sin" ,
+     "email":"villalobosdental@gmail.com",
+     "address":"4801-07 Bergenline Ave, Union City, NJ 07087, United States"
  },
 {   
      "id": 9,
      "slug": "el-nuevo-san-juan-health-center",
      "clinic":"El Nuevo San Juan Health Center- Urban Health Plan",
-     "phone":"(718) 589-2440"
+     "phone":"(718) 589-2440",
+     "gmRating":"3.9",
+     "totalReviews":"454",
+     "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3019.1332383679737!2d-73.8922271!3d40.825037!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2f45434699a39%3A0x4f743ce7ff5cb400!2sEl%20Nuevo%20San%20Juan%20Health%20Center-%20Urban%20Health%20Plan!5e0!3m2!1sen!2sin!4v1776270609235!5m2!1sen!2sin",
+     "email":"elnuevo@gmail.com",
+     "address":"1065 Southern Blvd #8, Bronx, NY 10459, United States"
  },
 {   
      "id": 10,
      "slug": "royzman-&-poznyansky",
      "clinic":"Royzman & Poznyansky, DDS (DENTAL CENTER OF BROOKLYN)",
-     "phone":"(718) 256-2800"
+     "phone":"(718) 256-2800",
+     "gmRating":"3.9",
+     "totalReviews":"364",
+     "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3028.9558468006103!2d-73.99779749999999!3d40.6087978!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2450e2ae35f8d%3A0xb11724e5d4c510bc!2sDENTAL%20CENTER%20OF%20BROOKLYN!5e0!3m2!1sen!2sin!4v1776271002398!5m2!1sen!2sin" ,
+     "email":"royzman@gmail.com",
+     "address":"8100 19th Ave, Brooklyn, NY 11214, United States"
  }
 
 ]

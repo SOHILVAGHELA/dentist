@@ -203,13 +203,7 @@
               <div class="google-rating wow fadeInUp" data-wow-delay="0.75s">
                 <ul>
                   <li>Google Rating <span class="gm-rating"></span></li>
-                  <li>
-                    <i class="fa-solid fa-star"></i>
-                    <i class="fa-solid fa-star"></i>
-                    <i class="fa-solid fa-star"></i>
-                    <i class="fa-solid fa-star"></i>
-                    <i class="fa-solid fa-star"></i>
-                  </li>
+                  <li class="stars"></li>
                   <li>based on <span id="totalReviews"></span> reviews</li>
                 </ul>
               </div>
@@ -1720,6 +1714,7 @@
           const totalReviewsEl = document.getElementById("totalReviews");
           const mapFrame = document.getElementById("mapFrame");
           const addressEl = document.getElementById("address");
+          const starsEl = document.querySelectorAll(".stars");
 
           let doctor = data.find((item) => item.slug === slug);
 
@@ -1741,6 +1736,19 @@
           });
           gmRatingEl.forEach((el) => {
             el.textContent = doctor.gmRating;
+          });
+          starsEl.forEach((el) => {
+            let r = parseFloat(doctor.gmRating);
+            el.innerHTML =
+              '<i class="fa-solid fa-star" style="color:gold"></i>'.repeat(
+                Math.floor(r),
+              ) +
+              (r % 1 >= 0.5
+                ? '<i class="fa-solid fa-star-half-stroke" style="color:gold"></i>'
+                : "") +
+              '<i class="fa-regular fa-star" style="color:gray"></i>'.repeat(
+                5 - Math.ceil(r),
+              );
           });
           totalReviewsEl.textContent = doctor.totalReviews;
           addressEl.textContent = doctor.address;

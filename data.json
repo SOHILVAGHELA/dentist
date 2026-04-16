@@ -108,6 +108,39 @@
      "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3028.9558468006103!2d-73.99779749999999!3d40.6087978!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2450e2ae35f8d%3A0xb11724e5d4c510bc!2sDENTAL%20CENTER%20OF%20BROOKLYN!5e0!3m2!1sen!2sin!4v1776271002398!5m2!1sen!2sin" ,
      "email":"royzman@gmail.com",
      "address":"8100 19th Ave, Brooklyn, NY 11214, United States"
+ },
+ {
+     "id": 11,
+     "slug": "unique-family-dentistry",
+     "clinic":"Unique Family Dentistry",
+     "phone":"(908) 965-1212",
+     "gmRating":"3.9",
+     "totalReviews":"337",
+     "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3026.3568421922228!2d-74.2338438!3d40.6661058!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c3b2a41704e90f%3A0x79b141e26c604610!2sunique%20Family%20Dentistry!5e0!3m2!1sen!2sin!4v1776318345146!5m2!1sen!2sin",
+     "email":"uniquefamily@gmail.com",
+     "address":"315 Elmora Ave Ste 104, Elizabeth, NJ 07208, United States"
+ },
+ {
+     "id": 12,
+     "slug": "fierro-benjamin-dmd",
+     "clinic":"Fierro Benjamin DMD",
+     "phone":"(973) 239-0605",
+     "gmRating":"5.0",
+     "totalReviews":"317",
+     "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3017.389503462761!2d-74.2331301!3d40.86332559999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c30031a1deb479%3A0x34fdd80dca3025a9!2sFierro%20Benjamin%20DMD!5e0!3m2!1sen!2sin!4v1776318708266!5m2!1sen!2sin",
+     "email":"fierrobenjamindmd@gmail.com",
+     "address":"878 Pompton Ave B1, Cedar Grove, NJ 07009, United States"
+ },
+ {
+     "id": 13,
+     "slug": "mirman-brian-f-dds",
+     "clinic":"Mirman Brian F DDS",
+     "phone":"(718) 667-6000",
+     "gmRating":"4.7",
+     "totalReviews":"281",
+     "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3030.799473711449!2d-74.1125758!3d40.5681053!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c249502adcc4c1%3A0x5399b91d4d105b83!2sBrian%20F.%20Mirman%20DDS!5e0!3m2!1sen!2sin!4v1776319086023!5m2!1sen!2sin" ,
+     "email":"mirmanbrianfdds@gmail.com",
+     "address":"2627 Hylan Blvd # D, Staten Island, NY 10306, United States"
  }
 
 ]

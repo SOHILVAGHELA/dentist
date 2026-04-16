@@ -202,7 +202,7 @@
               <!-- Google Rating Start -->
               <div class="google-rating wow fadeInUp" data-wow-delay="0.75s">
                 <ul>
-                  <li>Google Rating <span id="gm-rating"></span></li>
+                  <li>Google Rating <span class="gm-rating"></span></li>
                   <li>
                     <i class="fa-solid fa-star"></i>
                     <i class="fa-solid fa-star"></i>
@@ -1178,7 +1178,7 @@
                 <!-- Counter Item Start -->
                 <div class="rating-counter-item">
                   <div class="rating-counter-number">
-                    <h3><span class="counter">4.7</span>/5</h3>
+                    <h3><span class="counter gm-rating"></span>/5</h3>
                   </div>
 
                   <div class="rating-counter-content">
@@ -1716,7 +1716,7 @@
           const clinicEl = document.getElementById("clinicname");
           const phoneEls = document.querySelectorAll(".phone");
           const emailEls = document.querySelectorAll(".email");
-          const gmRatingEl = document.getElementById("gm-rating");
+          const gmRatingEl = document.querySelectorAll(".gm-rating");
           const totalReviewsEl = document.getElementById("totalReviews");
           const mapFrame = document.getElementById("mapFrame");
           const addressEl = document.getElementById("address");
@@ -1739,7 +1739,9 @@
           emailEls.forEach((el) => {
             el.textContent = doctor.email;
           });
-          gmRatingEl.textContent = doctor.gmRating;
+          gmRatingEl.forEach((el) => {
+            el.textContent = doctor.gmRating;
+          });
           totalReviewsEl.textContent = doctor.totalReviews;
           addressEl.textContent = doctor.address;
           mapFrame.src = doctor.map;

@@ -11,7 +11,8 @@
     <!-- Page Title -->
     <!-- <title>Dentaire - Dentist & Dental Clinic HTML Template</title> -->
     <!-- Favicon Icon -->
-    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
+    <!-- <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" /> -->
+    <link id="favicon" rel="icon" type="image/png" />
     <!-- Google Fonts Css-->
     <link rel="preconnect" href="https://fonts.googleapis.com/" />
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
@@ -53,7 +54,7 @@
           <div class="container">
             <!-- Logo Start -->
             <a class="navbar-brand" href="#">
-              <img src="images/logo.svg" alt="Logo" />
+              <img src="images/logo.svg" alt="Logo" class="logo" height="80" />
             </a>
             <!-- Logo End -->
 
@@ -1587,7 +1588,12 @@
             <div class="about-footer">
               <!-- Footer Logo Start -->
               <div class="footer-logo">
-                <img src="images/footer-logo.svg" alt="" />
+                <img
+                  src="images/footer-logo.svg"
+                  alt=""
+                  class="logo"
+                  height="80"
+                />
               </div>
               <!-- Footer Logo End -->
 
@@ -1708,6 +1714,7 @@
         .then((response) => response.json())
         .then((data) => {
           const clinicEl = document.getElementById("clinicname");
+          const logoEl = document.querySelectorAll(".logo");
           const phoneEls = document.querySelectorAll(".phone");
           const emailEls = document.querySelectorAll(".email");
           const gmRatingEl = document.querySelectorAll(".gm-rating");
@@ -1725,9 +1732,21 @@
             // ✅ URL me bhi default slug set karo
             window.location.hash = "/" + doctor.slug;
           }
+          const favicon = document.getElementById("favicon");
+          console.log("slug", doctor.slug);
+
+          favicon.href = "images/" + doctor.slug + "-favicon" + ".png";
+          console.log("favicon", favicon);
 
           document.title = doctor.clinic;
           clinicEl.textContent = doctor.clinic;
+          logoEl.forEach((logo) => {
+            logo.src = "images/" + doctor.slug + ".png";
+          });
+          // document.body.style.setProperty(
+          //   "--accent-color",
+          //   doctor.primaryColor,
+          // );
           phoneEls.forEach((el) => {
             el.textContent = doctor.phone;
           });

@@ -8,7 +8,178 @@
     "totalReviews":"759",
     "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3024.6236770628093!2d-73.798019!3d40.70428499999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c260d929f88167%3A0xe8f8f11e664f9624!2sTCN%20Dental%20Care%20PC!5e0!3m2!1sen!2sin!4v1776255979377!5m2!1sen!2sin",
     "email":"tcndentalcare@gmail.com",
-    "address":"161-10 Jamaica Ave #313-3, Jamaica, NY 11432, United States"
+    "address":"161-10 Jamaica Ave #313-3, Jamaica, NY 11432, United States",
+     "primaryColor":"#0223c2",
+     "reviews":[
+          {
+    "id": 1,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocJ0AtT49pkj3v8zHpnPdB-kaiH1eOL2GnK-lDIe0dp360doSBg=w90-h90-p-rp-mo-br100",
+    "name": "Yennifer Sutraban",
+    "date": "3 months ago",
+    "comment": "First of all, amazing dental office located in Jamaica ave. I had pain in wisdom tooth, originally went to city md few days before and gotten pain meds and antibiotics but that’s about it that urgent care can do. I called TCN dental immediately after my urgent care visits then I went to TCN dental  during the week of Christmas 2025. December 24, 2025 ,  I was able to get check up and was scheduled December 26, 2025 same week for removal extraction of wisdom tooth. After that procedure I had some pain 2-3 days, I follow rules by eating soft food and applesauce. Pain wears off by day 5. I ate regular food on other side of tooth. They did an amazing job.they did charge me $500 for bone graft but I didn’t mind as I had pain and wanted it to be over . Insurance covered everything else.\n\nOn January 9, 2026 I called TCN dental because of a root canal they told me needed to get done. The tooth that was bothering me, I got scheduled same day, I went in wait time was close to hour but that’s was because I was an emergency case. Root canal done and only crown is left to be put on another day. After this procedure some soreness and pressure and sensitivity. I went to work after. Covered by my insurance.The dentist DR Edward shalomov is amazing.",
+    "response-date": "",
+    "owner-response": ""
+  },
+  {
+    "id": 2,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjWs9qq4Gmxkxy4q-Lrn89h1GRuB92cSPRyzSo5h7FtSjLDi_4A=w90-h90-p-rp-mo-br100",
+    "name": "Luz Saez",
+    "date": "5 months ago",
+    "comment": "Amazing experience.. they treated me with kindness, words of encouragement about the procedure they gave me. They respected me, made me feel comfortable .i will recommend this place to who i know.and thank you for the your great service. Luz",
+    "response-date": "",
+    "owner-response": ""
+  },
+  { "id": 3,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocLFDAkJeSvuLbEgmV53bN7vaDqg9IVbHlNcYMJWtnc65A713g=w90-h90-p-rp-mo-br100",
+    "name": "Long Haul",
+    "date": "Edited 8 months ago",
+    "comment": "I'm very grateful to Dr. Campos for her meticulous work during my deep cleaning—zero sensitivity, and everything went smoothly, as always. The whole experience was friendly and professional.\n\nI sometimes read reviews and wonder where people get such negative experiences at this office, which I've been visiting with my daughter for years. I can only assume that some doctors may not work as smoothly as Dr. Buttar, Dr. Campos (who did sealants for my daughter), or Dr. Shalomoff (who placed two implants and did three root canals with crowns). But blaming the entire office for one doctor's work doesn’t seem fair.\n\nI hope my review helps clear things up!😎",
+    "response-date": "",
+    "owner-response": ""
+  },
+  { "id": 4,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjVy6DvihMBh4E0Op6IZa0cZs-g5NFVBl0AURrIqqtPcC6nyC2tU=w90-h90-p-rp-mo-ba2-br100",
+    "name": "Shai Vargas",
+    "date": "a year ago",
+    "comment": "I wanted to take a moment to express my gratitude for the exceptional care I received during my recent visit. The person who handled my cleaning was truly fantastic. She was thorough, attentive, and incredibly skilled. She was able to remove some stains that had been bothering me, and I walked away feeling a noticeable difference in my teeth. It was a genuinely pleasant experience, and I can’t thank her enough.\n\nAdditionally, the entire office staff was wonderful. Everyone was so friendly and accommodating, even when I brought my son along without a stroller. Dr. Shamalov and the assistant were both extremely kind and helpful, which made the visit all the more enjoyable.\n\nIf I could offer one piece of feedback, it would be to ensure that all cleanings are on the same level. I’ve been coming to this office for a few years now and will continue to go back.",
+    "response-date": "",
+    "owner-response": ""
+  },
+  { "id": 5,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjWq-KaRR1cnrukdGXUkGR-llsxH3ejx5QKr9A0X3D1hjbT0YTKz=w90-h90-p-rp-mo-ba3-br100",
+    "name": "Sam Ben",
+    "date": "8 months ago",
+    "comment": "Simply the best! They’re honest and professional, i’ve been going to this place for many years even though i moved from NYC and i still drive 2h to get there and it’s worth it!",
+    "response-date": "",
+    "owner-response": ""
+  },
+  {"id": 6,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjVglxX-Av43gAJ9Y8t8-mt4oc3pcJ4-lopCDkA5sCS8RVtL8T6l=w90-h90-p-rp-mo-br100",
+    "name": "Jody daley",
+    "date": "a year ago",
+    "comment": "The quality of service was really good. The team took great care of me and asked if I was comfortable the entire time. They are very friendly, caring and professional. Excellent service, fast and efficient. I was in great hands everyone worked together just like a team should. Thank you very much TCN!",
+    "response-date": "",
+    "owner-response": ""
+  },
+
+  {"id": 7,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocIyrwL6Ex178eDgxjXEB4acgmI0ivHPGuxtoJRoCuhs6jbTfg=w90-h90-p-rp-mo-br100",
+    "name": "lissa kayy",
+    "date": "a year ago",
+    "comment": "Dr. Campos is amazing ! The entire staff have such great character and welcoming energy. I had an appointment for a teeth clean and root canal each time I went my visit was quick, and painless. They took such great care of me and I love how they sent reminders for my appointments.",
+    "response-date": "",
+    "owner-response": ""
+  },
+  
+  
+  { "id": 8,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocLy9a3P8gw0JS5C50clvtJ9MX8VAJ7C7o-lGuImWwFwZgOIjg=w90-h90-p-rp-mo-br100",
+    "name": "Miriam Jankie",
+    "date": "2 years ago",
+    "comment": "I came in really nervous. 1. It was my first time there. I didn't know what to expect, and 2 I usually am nervous about dental services 😅\nThe young lady was very helpful and I didn't have to wait long to be called in.\n\nThe young man who does the x-rays was super friendly. I love his humor to help ease my nerves.(I forgot his name though)\nThe doctor was very informative a d did a good job\nOver all I am impressed and told my family members about this place.",
+    "response-date": "",
+    "owner-response": ""
+  },
+  
+  
+  { "id": 9,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocJ3uOg5Qp-sojQi6GHOM0JyohVScESoRUaOYqvuXeZE2K8mSg=w90-h90-p-rp-mo-br100",
+    "name": "Vikk Five",
+    "date": "11 months ago",
+    "comment": "Cant lie doctor did a fantastic job for me ..whole team there has great energy and very polite..looking for a great dentist than this is the one .. 😁 …",
+    "response-date": "",
+    "owner-response": ""
+  },
+  { "id": 10,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocLCettfe3_5Bk0d1L6MB8iP1bdkDebn-2p2au2USUjL6V3WtQ=w90-h90-p-rp-mo-ba2-br100",
+    "name": "karen laggan",
+    "date": "Edited a year ago",
+    "comment": "First time there wonderful experience friendly staff. Awesome doctors she told me everything I needed to get done. I had another doctor came and explained everything I needed to know answered all my questions. . Definitely 💯 satisfied …",
+    "response-date": "",
+    "owner-response": ""
+  },
+  { "id": 11,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjWk2NGb6zp4Igc-uT3dGxmx0FlS-RSbIAMYvA2sXNQDnLja7Z85=w90-h90-p-rp-mo-ba3-br100",
+    "name": "Winter Pamphile",
+    "date": "a year ago",
+    "comment": "Great staff, clean place professional dentists.\ntThey will remind you of your appointments at least 3 times, you can't missed it.\nPlanning to go there? No parking, only paid parking around the two sides street.",
+    "response-date": "",
+    "owner-response": ""
+  },
+  { "id": 12,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocKsZ1g_4OYCfce37vFl8ZGt_WW_esjk24QVzdsXm5eQIcOVOw=w90-h90-p-rp-mo-br100",
+    "name": "fatima muhammad",
+    "date": "3 years ago",
+    "comment": "This dental office was amazing I went in super nervous. I have severe anxiety when it comes going to the dentist. I haven’t been for a very long time. The staff at the front desk was pleasant when they greeted me, and checking me in super fast. I went for X-rays and the women in there was very kind as she noticed I was very nervous. Finally my dentist came in and told me what will be done just for today and throughout the procedure she kept checking on me as she could tell I was very nervous. She was so sweet and comforted me. This is a great dentist office",
+    "response-date": "",
+    "owner-response": ""
+  },
+  { "id": 13,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjXx3Vjnj5TU6m4i4wXHHSRngnOE4b32yttKjOwRITr0ibpsrF9A=w90-h90-p-rp-mo-br100",
+    "name": "Luis Cadmilema",
+    "date": "2 years ago",
+    "comment": "I like very much this place\nWas my first time here and everyone\nDo the work very well",
+    "response-date": "",
+    "owner-response": ""
+  },
+  { "id": 14,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjW8qzyh6W-xmcI0RGuzFJXfsFKfikBFN4I7tGjOGlSEkZF-azo=w90-h90-p-rp-mo-br100",
+    "name": "Denise Day",
+    "date": "Edited a year ago",
+    "comment": "Great friendly staff and the Dr. was awesome",
+    "response-date": "",
+    "owner-response": ""
+  },
+  { "id": 15,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocJ6X9ZHbqqqa1iuBuWHoI9J24QPf3RkOMgxvsDszZk5GEamsVbD=w90-h90-p-rp-mo-br100",
+    "name": "Darlene Wilson",
+    "date": "a year ago",
+    "comment": "The Dr. and his staff was very professional and attentive to my needs.  The work done on me was absolutely to my satisfaction and I plan to share my experience to my friends, family & social media platforms!",
+    "response-date": "",
+    "owner-response": ""
+  },
+  { "id": 16,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjWwufsSExqEIh4WaZA2Qg4HNaqPncNnkTi-v8bVeU2c9sWb81URDw=w90-h90-p-rp-mo-ba3-br100",
+    "name": "Lilian Meza-Perez",
+    "date": "a year ago",
+    "comment": "I don't remember the receptionist name, who was working today, she is excellent receptionist.",
+    "response-date": "",
+    "owner-response": ""
+  },
+  { "id": 17,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjXBXO86GTpbHAlrmVP9PM40juQQuqPapGRD_hOeo1j1gHH5fJXj=w90-h90-p-rp-mo-br100",
+    "name": "Steve",
+    "date": "2 years ago",
+    "comment": "It was my second visit there and, I must say that it was even better than before, friendly staff and good customer service. I even brought my family there. I  will definitely recommend my friends to them, keep up the good work see you again soon 👍🏽 😊 …",
+    "response-date": "",
+    "owner-response": ""
+  },
+  { "id": 18,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocKeTbwBlP7Y_yySpqr-ri6WaJA4kIcvh5DUHQGrMVMV1i9GWQ=w90-h90-p-rp-mo-br100",
+    "name": "bprincess421",
+    "date": "Edited 2 years ago",
+    "comment": "I have always went to this dentist (TCN)during the time I had lived in queens. After moving to Brooklyn I decided to go to a different dentist that was more convenient for me travel wise. My first visit to my new dentist in Brooklyn I ended up developing a fistula due to negligence and improper care for patients. I was referred to another dentist that suggested that I should see a few other dentist that might help me save my tooth before considering extraction. Because, unfortunately he does not specialize in root canal, crown, etc…The dentist said, if I do consider extraction it will be an out of pocket procedure that will cost me around $4000. and  he also do not accept any type of payment plan, only debit or credit. I decided to take the 2hr train ride to queens to visit my old dentist (TCN) this dentist literally changed my whole life in just one visit. Not only did they help me resolve the issue that I have been having for months in just one day, but they also took pride in making sure their clients are well taken care of. Honestly the procedure took place the same day which I was super excited about because I didn’t have to book another appointment a month ahead to get the procedure done. ✅ but also, I just lovee how they took their time with me. Answering all questions, handling me with care, had other dentist shared their opinion on what was the best option for me. There was no rush. The front desk was helpful and kind. Ommgggg!!! I can literally write a book of how amazing this dentist is. You can just tell the dentist love their job. Like they really  do  a GREAT job. My appointment was at 12pm. I checked in at 9am and was out of there 11:54am. They also accepted payment plans and I ended up paying half of what the other dentist in Brooklyn was charging.",
+    "response-date": "",
+    "owner-response": ""
+  },
+  { "id": 19,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjVpjsmuH7-IgLbXy27R2hhfeCR5fXZZLYRl38zBjsAR2CveezSR=w90-h90-p-rp-mo-ba2-br100",
+    "name": "COPPER WOLF",
+    "date": "Edited a year ago",
+    "comment": "well done job....  good well maintained facility very organized , friendly and know exactly what they are doing which makes me comfortable . The Dentist was explaining everything to me so I would have the knowledge of what will take place now and in the future.. All in all I give them 5 stars 🌟 .... …",
+    "response-date": "",
+    "owner-response": ""
+  },
+  { "id": 20,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjWCBH8X-7Nyo84e0S4gfR2dPitawfoAfnGmUO_ThWiU_MzB6OiS=w90-h90-p-rp-mo-br100",
+    "name": "Maria Richardson",
+    "date": "2 years ago",
+    "comment": "This place was recommended by my coworker and I  was not disappointed. Great service, clean reception, and most of all, the dentist gave very gentle care, and he paid attention to my needs and concerns.  I think I found my new dental place. I would definitely recommend it.",
+    "response-date": "",
+    "owner-response": ""
+  }
+  
+     ]
   },
   {   
     "id": 2,
@@ -18,8 +189,140 @@
     "gmRating":"4.7",
     "totalReviews":"669",
     "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3025.1280238020613!2d-73.8524312!3d40.693177999999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25dfcbf65dec7%3A0x59ecd73e82589130!2sQueens%20Children%20Dentist!5e0!3m2!1sen!2sin!4v1776267294467!5m2!1sen!2sin","email":"queenschildren@gmail.com",
-    "address":"87-08 Woodhaven Blvd 2nd Floor, Woodhaven, NY 11421, United States"
+    "address":"87-08 Woodhaven Blvd 2nd Floor, Woodhaven, NY 11421, United States",
+    "reviews":[
+  { "id":1,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocLAsTt5Sp9HG19q_ZcERRDx-xzRwzIfZuZrCwVQnD2c0MQIxg=w90-h90-p-rp-mo-br100",
+    "name": "Khemwattie Gowkaran",
+    "date": "2 months ago",
+    "comment": "I’ve been taking my baby here since she was 1 year old, she is now 3 years old. We’ve always had a great experience, they also try their best to go with whatever day and time you’re available to come. The environment is also very clean.\nThank you all for your patience and time.  ❤️"
   },
+  { "id": 2,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjUbx6O93stLz2jO_UG3MnWFCvyuyIkZVQ7BlUyzQI-sjobYzOU=w90-h90-p-rp-mo-br100",
+    "name": "Yordy Arias",
+    "date": "8 months ago",
+    "comment": "First time taking my boys to this dentist ages 6-3 staff was very nice even the dentist was so patient with my 3 year old while cleaning his teeth. This place really care for the children. The wait so short they made sure we was comfortable …"
+  },
+  { "id":3,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocKMnYV7o9zNmoXIjC5Q7XB4MPCFXxihsu7KwMPzPcf5SI3Idg=w90-h90-p-rp-mo-br100",
+    "name": "Tiarra Baskin",
+    "date": "Edited a month ago",
+    "comment": "My ladies great service fast very efficient my sons been going here for a while"
+  },
+  
+  { "id": 4,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjW7rWRgxocZuP-3ZFhtX1rda0GPh1wVD61B_5iTKZllFuIfgvoD=w90-h90-p-rp-mo-br100",
+    "name": "Avelino Cervantes",
+    "date": "6 months ago",
+    "comment": "Treated my son with excellence care, he’s autistic and they accommodated us with his needs. They speak to you with a lot detail before intake. Please listen to what they are saying ! Been taking him here since he was 2!"
+  },
+  
+  { "id": 5,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjUruKae-LxzpfnAnmrNAk3zC04WCixkTRzSqCxMHu9MUKQfHwZW5A=w90-h90-p-rp-mo-br100",
+    "name": "itzlisbeth Hernández",
+    "date": "2 months ago",
+    "comment": "Very good service. Staff is very friendly :) the doctor explains all treatment perfectly. Great dental office for kids  10/10"
+  },
+  
+  { "id": 6,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjVbxFI_uBnvTAIj0q3wun3o8gH4CiPBvk9AGBC6DwR8uII2f4eh=w90-h90-p-rp-mo-br100",
+    "name": "Sheina Garcia",
+    "date": "6 months ago",
+    "comment": "My experience in this office was very nice, i would recommend coming to this office because the staff is very welcoming and despite the environment getting a bit hectic, its all understandable because its children. Furthermore, i’ve always …"
+  },
+  
+  
+  { "id": 7,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocKFS2K46ziGqv-4meuNfP4lZyKNEAlY2oaeV2pOjYhXfyC26A=w90-h90-p-rp-mo-br100",
+    "name": "Kerryann Bailey",
+    "date": "5 months ago",
+    "comment": "Doctors and staff were very pleasant and professional most of all they were very knowledgeable. I would recommend this place anytime."
+  },
+  
+  { "id": 8,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjVO8B28wmYfnGY9Y8cMb8vqxc0cyWo-VqlOx4gspyAvqlkj4H0=w90-h90-p-rp-mo-br100",
+    "name": "Elizabeth Pacheco",
+    "date": "2 months ago",
+    "comment": "This place is amazing for children I bring my son and my baby and it’s amazing"
+  },
+  { "id": 9,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjW3f7Ac6LvPfnNLslQGvqHcwbzJjiJ82c9J_BwXbR9GCefdnqrrjw=w90-h90-p-rp-mo-br100",
+    "name": "dilianys hernandez",
+    "date": "2 months ago",
+    "comment": "By far the best dentist I’ve ever been to would definitely recommend bringing your kids here !!"
+  },
+  { "id": 10,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjXf0Dd4MAqvRs88HGomnk_kGt0vX_Jfe-B4-itZ2mHbhkHPdhd0hA=w90-h90-p-rp-mo-br100",
+    "name": "Lorena Martinez",
+    "date": "8 months ago",
+    "comment": "They gave the best service to my kids very polite.\nBayra the manager is very kind very professional and helpful will come back for another appointment"
+  },
+  { "id": 11,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjWASiyA4gvESZCaPQ036YntHLxmIvf1_R2WGndrSptGq0GzfLFo=w90-h90-p-rp-mo-br100",
+    "name": "frances lyn",
+    "date": "4 months ago",
+    "comment": "Nice people. Did a good job with my child. I recommend"
+  },
+  { "id": 12,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjWI8PvuI0b_MwnqcpPF8GM1yp9-_CPpfoRHakFhBlqn186VLEF9=w90-h90-p-rp-mo-br100",
+    "name": "firstchoiceinternetcafe preya",
+    "date": "8 months ago",
+    "comment": "This is my first time here with my twin sons and the experience is amazing. Fast , efficient, courteous and professional staff . The boys didn’t see the Dentist as yet but I am sure it would be a wonderful experience which I will share in an updated review . Thank u guys and I will definitely recommend this office."
+  },
+  { "id": 13,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjUKpslLfrx21pLbB1sDgS-SjmuujGG1b5wRM1ZvxHX8puZ4KyYe5A=w90-h90-p-rp-mo-ba4-br100",
+    "name": "Wayel A.",
+    "date": "11 months ago",
+    "comment": "We had a great experience here. The wait time was short, and Dr. Victoria (I believe that’s her name) was very professional and caring, as was her assistant. What really stood out was that even though our visit was scheduled as just a …"
+  },
+  
+  { "id": 14,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocLYLtPwPsbLC58KhLIXaiWyl42eYV4TSwy8_EvIMY_r3Ghk_Bo=w90-h90-p-rp-mo-br100",
+    "name": "Kat Rose J.",
+    "date": "2 months ago",
+    "comment": "Appointment was swift and easy. Very kid friendly"
+  },
+  { "id": 15,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocKjbY_ZFGM90jEZ6fVKC34cbR7CWUvEqn_o84SV3i19lTLkAl8=w90-h90-p-rp-mo-br100",
+    "name": "Angel Davila",
+    "date": "2 months ago",
+    "comment": "Great and very courteous with my son"
+  },
+  { "id": 16,   
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjWqy0q7jEqkpq8NjPq6dQCCefy1wGYoC4YymeTggWgvccZ1yDDT=w90-h90-p-rp-mo-br100",
+    "name": "grace perez",
+    "date": "3 years ago",
+    "comment": "Staff is nice place is clean didn’t have to wait long. I always like early appointments. Will be returning"
+  },
+
+  { "id": 17,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjVEp6jFvUql_0cq_nMds1O7fRJOSDgGxZxcjVbvz8yaBg7GNTOkuQ=w90-h90-p-rp-mo-br100",
+    "name": "Lucia Cervantes",
+    "date": "6 months ago",
+    "comment": "Good doctors take their time to explain what was wrong with my son. Will def be back."
+  },
+  
+  { "id": 18,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjUk8cuNig0OUIH9rJOnq9Z82I3P6FWk90q3MM-2x7dauG-ObIxYwA=w90-h90-p-rp-mo-ba3-br100",
+    "name": "Diane Batista",
+    "date": "a year ago",
+    "comment": "Awesome place very clean very professional. I also feel like I'm at home. The girls are so nice. They actually answer any questions or concerns. I would recommend any parent. 😁 My son leaves always happy and actually wants to come back. …"
+  },
+  { "id": 19,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjWf338B0CIXVue35pTI1IvbfumsjT2eGL26LbEVEi7s84WcOrhreA=w90-h90-p-rp-mo-ba3-br100",
+    "name": "Kennia",
+    "date": "7 years ago",
+    "comment": "I love love love this dentist for my daughter. They have proven time and time again that they are here for the children. I’ve been there 3 times and each time I interacted with Deangela. She is a SAINT! First she got me in for an emergency …"
+  },
+  
+  { "id": 20,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjVE_yc9IU6tavyclKkMA9pxYvtkTWEGEQ5aECwrsdZZFpiglug=w90-h90-p-rp-mo-br100",
+    "name": "missionarydaniel",
+    "date": "9 months ago",
+    "comment": "I love the experience when I brought my son there everyone was very friendly and helpful will be bringing my son back!!"
+  }
+] 
+},
   {   
     "id": 3,
     "slug": "dr.ruben-aminov-dds",
@@ -107,7 +410,8 @@
      "totalReviews":"364",
      "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3028.9558468006103!2d-73.99779749999999!3d40.6087978!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2450e2ae35f8d%3A0xb11724e5d4c510bc!2sDENTAL%20CENTER%20OF%20BROOKLYN!5e0!3m2!1sen!2sin!4v1776271002398!5m2!1sen!2sin" ,
      "email":"royzman@gmail.com",
-     "address":"8100 19th Ave, Brooklyn, NY 11214, United States"
+     "address":"8100 19th Ave, Brooklyn, NY 11214, United States",
+     "primaryColor":"#0223c2"
  },
  {
      "id": 11,

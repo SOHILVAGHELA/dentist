@@ -332,7 +332,130 @@
     "totalReviews":"740",
     "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3024.036144884439!2d-73.7411317!3d40.7172208!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c263a809c5bfe9%3A0xc3615908016f0054!2sDr.%20Ruben%20Aminov%20DDS!5e0!3m2!1sen!2sin!4v1776267710603!5m2!1sen!2sin" ,
     "email":"dr.aminov@gmail.com",
-    "address":"214-81 Jamaica Ave, Queens Village, NY 11428, United States"           
+    "address":"214-81 Jamaica Ave, Queens Village, NY 11428, United States" ,
+    "reviews":[
+          {
+    "id": 1,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjW3oanWswpPDZuuEW3BYI2OLQXHi7xUhuddMOr-4MhDVawZPh8Z=w90-h90-p-rp-mo-br100",
+    "name": "Sheron Wills",
+    "date": "2 months ago",
+    "comment": "This dentist does very good work and has a good bedside manners. My family and I have been seeing him for routine cleanings and he has done two crowns for me.  The crowns fit well with the other teeth and I often forget that I had work done. Most importantly,  he made sure that I had a pain-free experience , so if you are someone who has anxiety about going to the dentist,  you need to see Dr. Arminov. The office is clean and his staff is friendly and very professional."
+  },
+  { "id": 2,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjVqsFR0YSr1gu2RvncNqnESEU_DRlbyV2iWPvI0G0CidTLbnec0=w90-h90-p-rp-mo-br100",
+    "name": "Jorge Russell",
+    "date": "Edited 6 months ago",
+    "comment": "Update: I'm 52 years old. I've always had small corncob teeth, and a cross bite. It looked worse with age, due to how teeth decay overtime, and plus I had a very nasty cavity on the side of one of my front teeth, which made me look like I had food particles stuck there all the time. It was affecting my relationships because I stopped smiling as much as I used to. People thought it was personal, but I was merely ashamed of my teeth. Dr. Aminov fixed my front teeth to look presentable, and now they look even better than they did decades ago, while still looking very natural. Now I'm not fraid to smile again due to the fear of putting people off. If you have a similar problem, don't wait. Dr. Aminov is a master of his craft, and he can help you like he helped me. Trust him with your smile. He's amazing.\n\nOriginal: Dr. Aminov has saved me on various occasions from painful tooth aches, and getting an appointment to see him has always been prompt thanks to his professional and friendly staff. His clinic is always clean and pleasant to visit."
+  },
+  { "id": 3,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocK6inSRT7gjookUyeYLD-puTuX0X7N2O45RbV1oqq1Ku5q4yg=w90-h90-p-rp-mo-br100",
+    "name": "Farhana Punam",
+    "date": "2 months ago",
+    "comment": "Doctor Aminov is very friendly and great at his job. The office is clean and all the staff warm and helpful. The only issue for me was having to wait for more than half an hour before I could see the doctor. So the wait time could be reduced or keeping some free time at hand for the appointment could be useful."
+  },
+  { "id": 4,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjVW970xXE0b364KyUl_QYVWOAH8Y3l87yiieD7qEUZfpR7Z88aGFQ=w90-h90-p-rp-mo-br100",
+    "name": "Sharon Pires",
+    "date": "5 months ago",
+    "comment": "I love my dentist Dr. Ruben he is the best. He is a wonderful dentist does a wonderful job you will always be satisfied with his work.\nThe staff there is wonderful very friendly. I am very happy that i change from my previous dentist to Dr Ruben. The clinic is clean have all the new modern and update equipments. Once you go there you will always go back. I send all my friends and family to him. So yes i am very satisfied ."
+  },
+  { "id": 5,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocLTTkBtdS9xDffDgZsc03NKi34Rcu-ENVqL3FgCrtJgdFH1w65e=w90-h90-p-rp-mo-ba2-br100",
+    "name": "R. Gutierrez",
+    "date": "3 months ago",
+    "comment": "Dr. Ruben Aminov has excellent bedside manner and made both of my children, ages 16 and 18, feel comfortable and at ease. The entire experience was positive, and we never felt rushed. He accepts most dental insurance plans, scheduling an appointment was very easy, and both the front desk staff and dental assistant were extremely friendly. Highly recommend."
+  },
+  { "id": 6,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjUwQ4FdebqKJUuBn-4o6BVkC5gYakJW2EBP7jVaVmddP09y3mXA=w90-h90-p-rp-mo-br100",
+    "name": "Owen Liu",
+    "date": "3 months ago",
+    "comment": "This guy Ruben is very quick and efficient. He’s a honest dude and consulted me very practically. They accept emblemhealth Medicaid."
+  },
+  { "id": 7,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocKF-bDhs1_HTmctnAoZ9b_jPH0FS_qsguuO4SWgZ5iKL0NZhQ=w90-h90-p-rp-mo-ba3-br100",
+    "name": "Christine F-E",
+    "date": "2 months ago",
+    "comment": "Dr. Aminov, Ana and Raisa are always very attentive during the dental care/procedures they perform.\nAlways extremely friendly, engaging and knowledgeable about insurance requirements.\nThis is an excellent practice and recommend them to all in search of a great dentist."
+  },
+  { "id": 8,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocL5PjIl7FQYijiaMD2Qgtv4TvZdbZIBf6zEepEeqd_Jt6fXqQ=w90-h90-p-rp-mo-br100",
+    "name": "Muhammad Rashid Tanoli",
+    "date": "6 months ago",
+    "comment": "The location is very suitable for the patients to reach for treatment of teeth.\nThe receptionist lady is very active , courteous... professional and know the best how to accommodate the patients for appointment and having excellent communication skills.\nThe place is very in neat and clean.\nDr Ruben Aminov DDS  having excellent behavior and treat the patients with extra care with smiling face always.\nThe Practitioner Nurse is very much accommodative.... helpful and excellent behavior with patients.\nI recommend this place to all my family members... friends and others."
+  },
+  { "id": 9,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocKgyaUeS5xV16Jkbs5SgfhJ17UqPqn7JfHnlKj_N610-z_8bQ=w90-h90-p-rp-mo-br100",
+    "name": "Jaclyn Morales",
+    "date": "2 months ago",
+    "comment": "I’ve been coming to them for years . Ana is always a joy to see . The dental assistant is fabulous, she brings great energy into the newly renovated office. Dr. Ruben knows how much I hate going to the dentist but he is comforting and very attentive. I never come out in pain."
+  },
+  { "id": 10,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocIaLn1KcuJlIx1kJ7FDXpHWRGgz0h7SSNA_GxG1LxZXmtcv3g=w90-h90-p-rp-mo-br100",
+    "name": "Anisa",
+    "date": "5 months ago",
+    "comment": "I went to see Dr. Aminov with unbearable pain in my tooth. He referred me to Queens County Endodontics for a root canal. After that, he put a crown. It has been several months, my new crown is in a good shape and has no issues. He also put three more crowns for me. He saved my teeth. Now my husband and my daughter see him too. His clinic is so nice and comfortable. The dental equipments in each room are very clean and very modern. The environment is welcoming. His assistant Anna is friendly and professional. Dr. Aminov will be my family dentist for many years to come. I wish I found him earlier. If I could give him 10 stars, I would. I highly recommend Dr. Aminov for anyone who seeks a very good dentist. After seeing several dentists in the past years, Dr. Aminov is the best dentist for me and my family."
+  },
+  { "id": 11,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocJtfU5b8LJMSo1xyhb-ghJfkrgkV8sodzoklgqrE8SsEeMIbaML=w90-h90-p-rp-mo-br100",
+    "name": "lynn Le",
+    "date": "6 months ago",
+    "comment": "I had such a great experience here! The staff was super nice from beginning to end and made me feel really comfortable. They answered all my questions and were so patient and helpful the whole time. As someone who doesn’t usually enjoy going to the dentist, I can honestly say this visit made a big difference. I definitely recommend!"
+  },
+  { "id": 12,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocITveT-nKuCRFkXh03-uSiIJZTe3iSAposW4X9-m7xKBJQKGg=w90-h90-p-rp-mo-br100",
+    "name": "Arlene Schlesinger",
+    "date": "3 months ago",
+    "comment": "So thankful we found Dr Aminov! Everything we wanted in a dental practice! From getting a glowing referral,  to speaking to Anna who was great ……. Then meeting Dr Aminov was wonderful. Painless, honest and professional. You captured a whole family! Thank you so much."
+  },
+  { "id": 13,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjV0eCiQ8hGaIa5ZuHnhjpqvLVH9FZ1i2s4FClGVxMJmkW3rbjY6=w90-h90-p-rp-mo-br100",
+    "name": "Sanjay Sukhram",
+    "date": "4 months ago",
+    "comment": "Wonderful staff and dr.Aminov is an amazing dentist who truly cares about his patients more then his own pockets unlike like other dentist from my past I wish I would have known about him from the very beginning. From my very first experience with him i was more then satisfied with the work and craftsmanship he does one of the best in Queens Village! would definitely be recommending everyone to him!"
+  },
+  { "id": 14,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjWptdoVdEYV9ZE7Ekf0xSw2Rmd-6CJxhzeYvodVg2aR7K4BvKHl=w90-h90-p-rp-mo-ba4-br100",
+    "name": "Laura Cortez",
+    "date": "5 months ago",
+    "comment": "I can't believe I never went here to begin with, because I did find Doc but didn't realize he could do what I needed, because I didn't bother to call and wanted to rush. I'm so glad I wound up here ultimately. At this point, my two sister-in-laws, my brother-in-law, my husband, and myself are all patients. Not only is Dr Aminov amazing, and will make sure that you are comfortable and anxiety free in every aspect, he's truly a miracle worker, quick and efficient yet IMMACULATE dentistry. NOT ONLY THAT, but the office is so clean, bright and welcoming. The staff from the front desk to hygienist are absolutely the best as well!  That's a hard combo to come by. Working in healthcare myself, and having a lot of doctor visits for my son, I see all kinds of providers -and the lack of care and empathy and most of them. Not in this office! I highly recommend this office to anybody who needs dental care or has anxiety like I did after so many bad experiences elsewhere. This place is truly a gem 💎"
+  },
+  { "id": 15,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocKoTtN-YORxBCHAbtiJFuDLVZSMqUvQrFt5d3xj68EF9UjokA=w90-h90-p-rp-mo-br100",
+    "name": "Emily S",
+    "date": "3 months ago",
+    "comment": "Very clean office, staff is very welcoming, professional and kind. The doctor is super informative and always checks in to make sure his patients are comfortable. Definitely coming back!"
+  },
+  { "id": 16,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjUBtQSXluTXfaQs9ikMOoc1_RMWS3sJNHI6r6CROhMTAU98BJ2NXQ=w90-h90-p-rp-mo-ba2-br100",
+    "name": "Marjorie White",
+    "date": "6 months ago",
+    "comment": "I absolutely love coming here.  The wait is never long, the staff is so friendly and accommodating.  Dr. Aminov is hands on explains everything thoroughly.  He really cares about your comfortability and the health of your teeth.   Definitely having my daughter come here now."
+  },
+  { "id": 17,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjV8c8rTdN6eG3rRL7qoLnafuaK2qtnQm-QZLTy0EExo_GDD_2I=w90-h90-p-rp-mo-ba2-br100",
+    "name": "Beezy Don",
+    "date": "a month ago",
+    "comment": "Great Dentist and staff, they were very friendly and I enjoyed my visit. I would definitely recommend my family and friends to go see Dr. Ruben."
+  },
+  { "id": 18,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocKzIY72bTgMYo1bK7PR2SC2Qa1O7T3lNIrZWN2g-nbHQ3RI8g=w90-h90-p-rp-mo-br100",
+    "name": "Skeff Casimir",
+    "date": "6 months ago",
+    "comment": "Came to this office for an emergency. Doctor Ruben was able to take me in without a problem. Fixed me up. Relieved my pain. And left me very happy. I'm am forever grateful. Thank you for this team and Dr. Ruben. Amazing people."
+  },
+  { "id": 19,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocKAK2yqJ3YESe8dhysph45u9aAfufo9PCiRHyb6ELeqFYIDpQ=w90-h90-p-rp-mo-br100",
+    "name": "Adorne Miles-Lawley",
+    "date": "6 months ago",
+    "comment": "I just started going to Dr. Ruben Aminov this year 2025 and I must say I am very impressed. When he gave me needles in my mouth I barley felt it. Also when he prepoed me for my crown he was cvery gentle. I would recommend everyone yo use this Demtist and need i say he is very personable and professional."
+  },
+  { "id": 20,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocJL7VQGGiz3Bh4OSoiTgOZvaCQtwyxabRHH7utCbeRtiUGjr58=w90-h90-p-rp-mo-br100",
+    "name": "Sashoi Sutherland",
+    "date": "7 months ago",
+    "comment": "Oh Dr Ruben and his staff are the best. They are so warm and welcoming, I always look forward to visit. I took my son for his first time cleaning and as a child who is usually afraid of the dentist, he loved every bit of it, he keeps asking when he is going back. I recommend this place to everyone! 1000/1000!!!"
+  }
+    ]          
   },
  {   
     "id": 4,
@@ -343,7 +466,131 @@
     "totalReviews":"592",
     "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3015.665731914975!2d-73.8207645!3d40.90114680000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c28d3d1c84bbe7%3A0xfd7cb52e0a422288!2sGuerrino%20Dentistry%20and%20Associates!5e0!3m2!1sen!2sin!4v1776268048103!5m2!1sen!2sin" ,
     "email":"guerrino@gmail.com",
-    "address":"400 E Sandford Blvd #2, Mt Vernon, NY 10550, United States"
+    "address":"400 E Sandford Blvd #2, Mt Vernon, NY 10550, United States",
+    "reviews":[
+        {
+    "id":1,        
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocJIjOxH5nbRtxryWTjITssQQrGDsbVPYYfbse2GAVwivfH_yQ=w90-h90-p-rp-mo-br100",
+    "name": "Sharon Tapley",
+    "date": "3 months ago",
+    "comment": "Today I had a tooth extracted by Dr. Joseph.  I was anxious, petrified. He assured me that the experience wouldn’t be as horrible as I imagined. He was right.  His patience and gentle demeanor (combined with his skill) made the process manageable.  If he can calm MY fears and anxieties he’s got to be exceptional. The staff is warm and personable. A positive experience."
+  },
+  { "id":2,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocL0l305d0DuxM-E25zizVnb-V01OzTOpuFQbGl0RBac_TC9IRb8=w90-h90-p-rp-mo-ba4-br100",
+    "name": "Patricia Johnson",
+    "date": "3 months ago",
+    "comment": "I’m treated with dignity and respect. The staff are caring, understanding, supportive and respectful. From my entrance into this facility I felt the warmth and respect from the staff. First impressions are lasting impressions for me. Today the Dental Hygienist Nyima provided care for me. It was very intense and very thorough treatment. The staff who took care of me Dr. Joseph Guerrino, Mildred Riviera, Tanya, Julissa are a blessing to me. I like the services provided and will be using this facility for my dental procedure. Thanks for your provided services and continue to provide professional services to the community."
+  },
+  { "id":3,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocJhLKcJh1OdlrBlFDalX4BCQWbn9vUXYQdbejYa1f1O9KWJ2RM=w90-h90-p-rp-mo-br100",
+    "name": "Sarah Keep-Smiling",
+    "date": "6 months ago",
+    "comment": "I am beyond grateful to have Mercy Thomas as my dental hygienist at Guerrino Dentistry in Mount Vernon, NY. For years, she has provided nothing short of outstanding care, and each visit with her is a reminder of how lucky I am to be in such capable and compassionate hands.\n\nMercy consistently goes above and beyond to ensure every cleaning is not only thorough and gentle but also genuinely enjoyable. She takes her time to explain everything clearly and gives me personalized tips for maintaining optimal oral health between visits. Her advice has truly made a difference in my home care routine, and my dental health has never been better.\n\nWhat truly sets Mercy apart is her warm, caring nature. She is always pleasant, polite, and incredibly kind—a true professional who genuinely cares about her patients. Not only does she provide exceptional care, but she also takes the time to connect on a personal level. She always asks about my mom, which means so much to me. It’s those thoughtful gestures that make every visit feel personal and comforting.\n\nMercy remembers details, checks in with genuine interest, and makes you feel completely at ease from the moment you sit in her chair. Her gentle touch, positive energy, and kindhearted spirit turn a routine dental appointment into something I actually look forward to.\n\nMercy Thomas is a rare gem in the dental field, and Guerrino Dentistry is incredibly fortunate to have her on their team. Her dedication, compassion, and professionalism reflect the highest standards of patient care. I cannot thank her enough for the many years of exceptional service, and I look forward to many more. (Thanks Sarah)"
+  },
+  { "id":4,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjX11FLCdX5QawSQ4WwIWrycweix0B_rMDB8Ohz_arG-IvwMTc-8NQ=w90-h90-p-rp-mo-br100",
+    "name": "Lotoya Osumanu",
+    "date": "3 months ago",
+    "comment": "I am beyond grateful for Dr. Joseph and is incredibly staff. My first impression was the office was clean, and how pleasant everyone was. Dr. Joseph did an amazing job with my crown and filling. I absolutely love how professional and friendly he was with his patients, and his staffs. I highly recommend Guerrino dentistry."
+  },
+  { "id":5,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjVxgSwogtbbOp_ZsZpMPV0vzpvH9F0YDwZAPnS5QPq3Kxq0150=w90-h90-p-rp-mo-br100",
+    "name": "Arlene Hinds",
+    "date": "4 months ago",
+    "comment": "I’ve been extracting teeth for over 40 years. Did my first extraction with the dentist in November 2025. There was no pain with the procedure, no pain during the healing process. The dentist was very understanding of my fears, allayed them all. It was a wonderful experience. Mildred one the best manager I known"
+  },
+  { "id":6,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocIpZO69uJc_0iwm8lKRaim5CfQLbpfr8mwCNa7VoPUKLUgRkg=w90-h90-p-rp-mo-br100",
+    "name": "james sullivan",
+    "date": "2 months ago",
+    "comment": "Dr. Joe Guerrino is the real deal. Super professional, thorough, and my teeth have never felt cleaner. Great experience from start to finish, highly recommend!"
+  },
+  { "id":7,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjWlDrLEDQ2uWXDA-11dqgwRsZRqXTHYWdu1TQ_HaeVgzMHF5BCe=w90-h90-p-rp-mo-br100",
+    "name": "Charles Ferreira",
+    "date": "3 months ago",
+    "comment": "I’ve been a patient for over 20 years and I highly recommend Guerrino Dentistry. I recently saw Dr Joseph for tooth discomfort and he performed the procedure quickly and pain free. Thanks again"
+  },
+  { "id":8,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocIkLV6-fAv4zE1sjiM3SKtu0fNIrYoUs8Pn_TX8D4ic7aoxNw=w90-h90-p-rp-mo-br100",
+    "name": "Dwayne Johnson",
+    "date": "2 months ago",
+    "comment": "My experience was very great with dr Joseph guerrino he was very passionate and very knowledgeable on the work I needed to make my smile better he just the best also Mildred office manager also very helpful with any information I needed to proceed with my dental work also the rest of the staff is great the best dental office I ever  been to."
+  },
+  { "id":9,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjX90R7RwdaBOOZvPDsEOVipiJk_lGUcSwlE4yMgzF183pX-0ji2=w90-h90-p-rp-mo-br100",
+    "name": "Mirian Florentin",
+    "date": "2 months ago",
+    "comment": "Yolanda and Dr. Chae are excellent  definelly are one of the best dentist ever .. my experience with this dental office is 100% amazing no pain, they explain everything to me .. love it"
+  },
+  { "id":10,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocJ9ORvypV9SzPcJN4sH0N5rhMcGLDA7OLtx84q_DfsNgtbKDA=w90-h90-p-rp-mo-br100",
+    "name": "Dawn Burno",
+    "date": "3 months ago",
+    "comment": "The staff and dentist were very knowledgeable and comfortable with they patients I will recommend any one who is looking for a caring and professional dentist look no further Guerrino Dentistry is the best give them a try you will not regret it"
+  },
+  { "id":11,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjXJPmeDHmXV6nke3TaiM2ftJBPzyJAf8n200l5tV_ZCByVrD8sA=w90-h90-p-rp-mo-br100",
+    "name": "Cnas1224yahoo com",
+    "date": "7 months ago",
+    "comment": "Dr. Joseph is amazing!!! I am terrified of all dental work even if it’s just a cleaning. Dr. Joseph made me feel comfortable. Unlike with other Dental professionals, I didn’t feel judged or embarrassed about the way my teeth looked\nI am not an easy patient because again , I am petrified of Dental work . Nevertheless, Dr.Joseph demonstrated absolute professionalism in the form of extreme patience, understanding , & always explaining procedures clearly, answering my questions with details, providing breaks & checking in on me during procedures.\n. Trust me, this doctor is patient & does amazing work!!!.The end result was fantastic, My teeth look wonderful & I am very happy with the results. They actually look better than my original teeth.\n\nThank you Dr. Joseph. I’m smiling at everyone & everything now! lol\n\nThanks for a job well done,\n\nChristine Quinones"
+  },
+  { "id":12,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocJZrd9gPIdkwxvFxJ4X8Td8wXzfbeojvU_OZyx9RNrx6jOnHQ=w90-h90-p-rp-mo-br100",
+    "name": "Sterling M",
+    "date": "7 months ago",
+    "comment": "I just visited this dental office and have nothing but great things to say.  The staff was very attentive and welcoming.  The dentist was able to explain things simply and thoroughly, which made me feel very comfortable and at ease.  Normally going to the dentist feels like such a hassle but the people here honestly make it a pleasure."
+  },
+  { "id":13,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocJWkpCaCxVm5VpXLj5xIdeKHp5A2QJeu9_FUHWULusuaz3Zlw=w90-h90-p-rp-mo-br100",
+    "name": "Scott Nastahowski",
+    "date": "8 months ago",
+    "comment": "I've been going to Guerrino Dentistry for years, and they’re fantastic — especially Dr. Joseph! He’s incredibly knowledgeable, thorough, and always makes sure you’re comfortable. He goes above and beyond to provide excellent care. Highly recommend!"
+  },
+  { "id":14,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjUH9aT7YVW3jreDk6kOlMhpJMmzlsAfHKIRKdjVWPH1gVAd0xE6Mg=w90-h90-p-rp-mo-br100",
+    "name": "Centhia Eke",
+    "date": "7 months ago",
+    "comment": "Dr. G is amazing. Did such a good job with my 7 years old that needed a filling and she was so happy it didn't hurt and she loved her experience. I did too. He is also amazing with my 5 years old son too."
+  },
+  { "id":15,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocLv9finb6p8eMYfAgdn5iDOJD14cnV-y46SmvJIsWId4HdPOg=w90-h90-p-rp-mo-br100",
+    "name": "Maria Odocha",
+    "date": "a month ago",
+    "comment": "Dr Joseph is an excellent dentist who took care of my dental issues when I came to his office with severe tooth pain."
+  },
+  { "id":16,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocKGX_dzKllnU1lLL3r7Vlg-G1Uza_mLqfbnHtTZMsTBzkMjzA=w90-h90-p-rp-mo-br100",
+    "name": "Glen Green",
+    "date": "7 months ago",
+    "comment": "The dentists at Guerrino Dentistry always make you feel comfortable, which is huge for me since I hate going to the dentist. Dr. Joseph Guerrino did an incredible job and even followed up with me post-visit. Professional, caring, and responsive - highly recommend getting dental work done here!"
+  },
+  { "id":17,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocIFLSydxN5C188BIEUppIFVEO3C2yMvBsX7wlS7lhfGyiormoo=w90-h90-p-rp-mo-br100",
+    "name": "Cymantha",
+    "date": "5 months ago",
+    "comment": "Great customer service experience met with Tanya and Kimberly at the front desk very professional and polite I also met with the hygienist Mercy which has such a warm good manners when working with you and explaining things I met with Joseph the actual dentist and was patient and explain things and gave me very good options overall I do recommend this facility"
+  },
+  { "id":18,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjWe8D4w4_jjsLT6z5fQCjwz4bVvGggipo0W8_3ZF_mRwpOGXfR_=w90-h90-p-rp-mo-br100",
+    "name": "Stephen Martin",
+    "date": "5 months ago",
+    "comment": "Doctor Joseph\nWas professional and took his time. Mildred walked me through the financials with ease. I am very pleased with the service overall."
+  },
+   {"id":19,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocIjCRUQ7hMbgZ6n1w7mqvrN7q_aNZDq-na_RHdyB4pFad5JwA=w90-h90-p-rp-mo-ba3-br100",
+    "name": "LaToya Davis",
+    "date": "8 months ago",
+    "comment": "GOOD DAY ALL. Let's start by saying that I was recommended to GUERRINO DENTISTRY  dentist from my best friend, vanessa. I think her because from the time I walked in, the two ladies at the front desk are very welcoming Ms. Tanya & Ms.Christine very happy and helpful. I went upstairs and had the best cleaning of my life by Ms.Mercy when I tell you she was in my mouth tooth by tooth cleaning each and every individual tooth in my mouth. I feel like a new person. I just wanna smile all day lol.I am one to brush and floss every day, but this was by far the best I've ever had by a dentist place.  So I say all this to say, \"Keep up the great and fantastic work. If no one said it, I would thank you for all you guys have done. If you haven't been by now is the time to go get your teeth checked."
+  },
+  {"id":20,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjWdGM88l2vJb8b0bQ9S6L-xJWDGBn3YhE8XC9z4S_SKvNiItB0=w90-h90-p-rp-mo-br100",
+    "name": "Michelle Murray",
+    "date": "6 months ago",
+    "comment": "My stopping at this Dental Care was not in vain, the entire staff team are incredible, Amazingly professional and warm welcoming pleasant, Thanks to Dr. Joseph with changing out my fillings, Mildred in finance department, and everyone I’m so very very Satisfied with my results, Blessed 🥰😍 …"
+  }
+  
+    ]
  },
  {   
      "id": 5,
@@ -354,7 +601,171 @@
      "totalReviews":"471",
      "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3026.7375850876133!2d-73.7415773!3d40.6577146!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c26423de888341%3A0x332ff3f7ebe07aac!2sRosedale%20Dental!5e0!3m2!1sen!2sin!4v1776269345267!5m2!1sen!2sin" ,
      "email":"rosedale@gmail.com",
-     "address":"146-32 243rd St, Jamaica, NY 11422, United States"
+     "address":"146-32 243rd St, Jamaica, NY 11422, United States",
+     "reviews":[
+         { "id":1,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjVA5fZQ6fwMbGAPnckZyibdjnmbFH5KqCD1a6rV--pN4QQGxcI=w90-h90-p-rp-mo-br100",
+    "name": "natajra nephew",
+    "date": "3 months ago",
+    "comment": "Outstanding Dental Care You Can Truly Trust\n\nFrom the moment I walked into this dental office, I knew I was in great hands. The entire team is welcoming, professional, and genuinely cares about their patients. The staff takes the time to explain every step of the process, making sure you feel comfortable, informed, and confident in your care.\n\nThe office is spotless, modern, and well-organized, and appointments run smoothly without long wait times. The dentist is extremely knowledgeable, gentle, and attentive, always prioritizing both comfort and long-term oral health. What truly sets this office apart is the level of compassion and personal attention they provide. You never feel rushed or like just another patient.\n\nIf you’re looking for a dental office that combines exceptional skill, advanced technology, and outstanding patient care, I highly recommend this practice. It’s truly an awesome dental office and one I trust completely with my smile.\nThank you 🙏",
+    "response-date": "3 months ago",
+    "owner-response": "We truly appreciate the excellent review!  Thank you for the kind words regarding the entire team at Rosedale Dental and Dr. Naseem. \nWe are grateful!"
+  },
+  { "id":2,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjXrTmyZmd-g-2oeexoO90ifJjniiMC8nJL8Ft-L5wPKilZc5nXY=w90-h90-p-rp-mo-br100",
+    "name": "A W",
+    "date": "2 years ago",
+    "comment": "Not far from the bustling center of New York City, where the buildings reached for the sky and the hustle and bustle of life echoed through the streets, in the quaint town of Rosedale, nestled among the beautiful residential houses and surrounded by blossoming gardens, there stood a charming dental office. From the moment you step into the waiting area, you'll feel like you've entered  a neighbor's home. The ambiance is a perfect blend of comfort and familiarity. Soft 2016 pop music cheers you as you settle into their purple playdough chair, creating an atmosphere that eases any dental anxiety.\nBut it's not just about aesthetics; it's about connection. While Dr. Naseem ensures your visit is a quick touch and go, scared to bore you with technical details of oral procedures, his assistants will make every visit transcends the typical dental experience. Their caring nature and genuine interest in your well-being make appointments feel like a rendezvous with a friend rather than a routine check up. Five stars for turning scary dental visits into delightful excursion!",
+    "response-date": "2 years ago",
+    "owner-response": "Thank you for the fantastic review! We are happy to hear about your wonderful experience with our office and staff! We are grateful!"
+  },
+  { "id":3,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocKKBTpZXgxVJNQXJPOd3PcCVC4kIqCyLmrnm8Z0Z0GtqEabVw=w90-h90-p-rp-mo-br100",
+    "name": "Charmaine Walker",
+    "date": "6 months ago",
+    "comment": "I've been going to this dentist for years and I must say that he is the absolute best. He is patient, informative and gentle. He keeps you at ease at every appointment. His supporting staff is always professional and friendly. Highly recommend!",
+    "response-date": "5 months ago",
+    "owner-response": "Thank you so much for the great review!  We truly appreciate you choosing Rosedale Dental and Dr. Naseem to address all your dental concerns!  We are grateful!"
+  },
+  { "id":4,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocJiCt3Zask0DQEO7HwhvfTZ5EEN6zgZqYWOik5y2ZlEwKJf9A=w90-h90-p-rp-mo-br100",
+    "name": "Hamza Ahmed",
+    "date": "7 months ago",
+    "comment": "My initial visit was a great experience. Dr. Naseem addressed all my issues, from bleeding gums to pain, and the entire team was so kind and helpful. The dentist was thorough and explained the treatment process in a way that was easy to understand. I highly recommend this office!",
+    "response-date": "7 months ago",
+    "owner-response": "Thank you for the fabulous review!  We appreciate the kind words and Thank you for choosing Rosedale Dental and Dr. Nadeem Naseem to address your dental concerns!  We are grateful!"
+  },
+  { "id":5,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocLLx1e9LNIdazyR0kCXVOljKTPBYgZcC76m4KhHwnS4gEPJoA=w90-h90-p-rp-mo-ba2-br100",
+    "name": "Reena Haq",
+    "date": "9 months ago",
+    "comment": "I’ve had a great experience at this dental office! The desk receptionist is warm and welcoming, which makes check-in and scheduling super easy and pleasant. Dr. Naseem is excellent—he does a thorough job with cleanings and really takes his time during consultations to explain everything clearly. He’s also genuinely funny and uses great analogies that make dental care easier to understand and a little less intimidating. Highly recommend!",
+    "response-date": "9 months ago",
+    "owner-response": "Thank you so much for the fabulous review!  We truly appreciate you choosing Rosedale Dental for your dental concerns!  We are indeed grateful!"
+  },
+  { "id":6,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocLSKEls_2FQNqVkGt56Eh9eB06SU0259WYxcRGx_TdKBpH3=w90-h90-p-rp-mo-br100",
+    "name": "kyle",
+    "date": "a year ago",
+    "comment": "I had a great experience at Rosedale Dental! The staff was super friendly, and the office was clean and welcoming. The doctor took the time to explain everything and made sure I was comfortable the whole time. The treatment was quick and painless.\n\nIf you’re looking for a caring and professional dentist, I highly recommend Rosedale Dental. I’ll definitely be coming back!",
+    "response-date": "a year ago",
+    "owner-response": "Thank you for the excellent review!  We truly appreciate the kind words and are thrilled that you had a great experience with the team.  We are indeed grateful to you for choosing Rosedale Dental and Dr. Naseem to address your dental concerns!"
+  },
+  {"id":7,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjVqDGoBWhOpSEm9Siea92X4nlIkI7iH2ez-WuV4j62yNf2X1Mk=w90-h90-p-rp-mo-ba2-br100",
+    "name": "kevin fitzgerald",
+    "date": "3 years ago",
+    "comment": "Best dental office in the entire Queens Borough. Lovely and extremely friendly staff. Dentist is the most gentle soul I’ve ever met",
+    "response-date": "3 years ago",
+    "owner-response": "Thanks for the review! We’re really grateful and appreciate you taking the time to share your rating with us."
+  },
+  {"id":8,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocIHulQJovJkrKKx_WQZc3mmr-1RY5XAGR6o6wvowlC6-grAig=w90-h90-p-rp-mo-br100",
+    "name": "Jason Williams",
+    "date": "4 months ago",
+    "comment": "The staff here are all very friendly. Great service overall. Everything is explained clearly and done professionally.",
+    "response-date": "4 months ago",
+    "owner-response": "Thank for the great review!  We truly appreciate the kind words regarding our entire team.  We are grateful!"
+  },
+  {"id":9,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjUwFIRxSSip9qF5vaSLg0wBJalpZoKR3dX4AZNW4Rh52UAlX5JJ=w90-h90-p-rp-mo-ba4-br100",
+    "name": "Justyna Davy",
+    "date": "Edited a year ago",
+    "comment": "Dr.Naseem is great at what he does, very informative patient, and honest. He does excellent crown/ bridge work.\nHe is also gentle and sweet .I highly recommend this office ! And love the new look 🥰 …",
+    "response-date": "3 years ago",
+    "owner-response": "Thank you so much for the wonderful review! We are so happy that you enjoyed your visit!"
+  },
+  {"id":10,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocJ0qhBx8ZLJeZZnpXerPSULFxGpcaxRMefNL_n6MkWkhM54Lg=w90-h90-p-rp-mo-br100",
+    "name": "samrin a.",
+    "date": "a year ago",
+    "comment": "Was very nervous to get my root canal treatment done, but Dr. Naseem really comforted me along every step. He was thorough, patient, careful and did an amazing job! I did not feel the pain as anticipated! Really friendly staff and exceptional care! Would recommend to all!",
+    "response-date": "a year ago",
+    "owner-response": "Thank you for the tremendous review!  We truly appreciate the kind words regarding the office and the entire team. We are grateful to you for choosing Rosedale Dental!"
+  },
+  { "id":11,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocKBSNfMpd8zl6llWdq8xiPf_3U9OogYyxZcSWol8pFX_1df2Q=w90-h90-p-rp-mo-br100",
+    "name": "suzanne milovic",
+    "date": "a year ago",
+    "comment": "I have been a patient with Rosedale Dental  for several years and  highly recommend Dr. Naseem.   Professional, thoughtful, talented.  Takes the time to explain every procedure including any available options.   His staff is great and as those are usually the first and last individuals you see when visiting any medical facility, a good impression goes a long way.",
+    "response-date": "a year ago",
+    "owner-response": "Thank you so much for the wonderful review!  We truly appreciate the kind words directed at the entire team!  We are indeed grateful to you for choosing us to address your dental concerns!"
+  },
+  { "id":12,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocIBY7wAy3cvV_D0jP_7Qn7q-odFJC6gwp1LVbUZcOd_MbC3o9c=w90-h90-p-rp-mo-br100",
+    "name": "Brandi H",
+    "date": "a year ago",
+    "comment": "This is hands down the best dental experience I’ve ever had. The dentist and staff are gentle and amazing. They were very welcoming and made me feel comfortable. I’ll always be going to them moving forward. Thank you so much for everything.",
+    "response-date": "a year ago",
+    "owner-response": "Thank you so much for the fabulous review!  We are grateful to you for choosing Rosedale Dental! We appreciate you sharing your great experience with the team!"
+  },
+  { "id":13,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjWFZvEK3cag6yPOBckw9oH9zWJ_QUYFlvOOW6i_3hJ-McWRW3Z0Lw=w90-h90-p-rp-mo-ba3-br100",
+    "name": "Felix Calderon",
+    "date": "2 years ago",
+    "comment": "Friendly knowlegable staff. Modern office and equipment. Fees very reasonable. They work with you. Highly recommended.",
+    "response-date": "2 years ago",
+    "owner-response": "Thank you for the great 5 star review!  We appreciate the kind words!  We are grateful!"
+  },
+  { "id":14,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjWXjTuTF6WZ9PDUvxjLWPM-rJV1-KVsZy-8O-sCwQBiV-R_Da0=w90-h90-p-rp-mo-br100",
+    "name": "Chris",
+    "date": "Edited a year ago",
+    "comment": "my visit was perfect I highly recommend giving them a visit you if you want the best dental service with very friendly staff i felt like i was at home the way they took care of me. the staff are very honest and helpful and will let you know what you need to do for your teeth so u can prevent any issue from occurrin. highly recommend thank you for the help today🙂",
+    "response-date": "Edited a year ago",
+    "owner-response": "We truly appreciate the kind words about the team at Rosedale Dental.  Thank you very much!"
+  },
+  
+  { "id":15,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocKQ5kjItUb1GI5ptHQwXiBmgxgj-O9x5dEM0rdnS24UgwRLGw=w90-h90-p-rp-mo-br100",
+    "name": "Nicole",
+    "date": "a year ago",
+    "comment": "8/10/24- I looked online for a dentist office and the assistant Justina gave me an immediate appointment. The staff are very nice and so is the dr.  He explained everything to me and made me feel very relaxed. The office is bright and very modern.  I had an excellent experience and will change my current dental provider to this one.\n\nI understand why all of his ratings is 5 stars",
+    "response-date": "a year ago",
+    "owner-response": "Thank you for the excellent review.  We are truly appreciative of the kind words for our team at Rosedale Dental and Dr. Naseem. Wr are grateful to you!"
+  },
+  { "id":16,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocJ-z5k4AZzG3BbbS1uLnYJbVGi1B4n7ZusO50SdtaP-xTAYjw=w90-h90-p-rp-mo-br100",
+    "name": "Nishi Bissoondial",
+    "date": "11 months ago",
+    "comment": "I travel 2 hours to get to his office because he is the only honest, patient, and professional dentist I've ever been to. He seems to really care about his patients. I highly recommend him.",
+    "response-date": "11 months ago",
+    "owner-response": "Thank you for the great review!  We truly appreciate the kind words regarding your positive experience at Rosedale Dental! We are grateful to you for choosing us to address your dental concerns!"
+  },
+  { "id":17,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocKbjQLHU2rmtw58o2HzfWX-rBKocwVjYEvf6JBoCdg8eBMKSQ=w90-h90-p-rp-mo-br100",
+    "name": "Sandra Bhimdas",
+    "date": "11 months ago",
+    "comment": "Dr. Nadeem and the entire staff are very accommodating and very professional, he is very patient and kind, always explains everything in detail.. my entire family has been seeing him for years.. I highly recommend him, may he be blessed to continue putting smiles on our faces..🙏❤️ …",
+    "response-date": "11 months ago",
+    "owner-response": "Thank you for the wonderful review.  We truly appreciate the kind words, especially regarding the entire team at Rosedale Dental.  We are grateful to you for choosing Rosedale Dental!"
+  },
+  { "id":18,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjU8stfve89VGivae_C3Cqf7P6ihFuvelEg2-gU2yJDGfgdJ28ThJw=w90-h90-p-rp-mo-br100",
+    "name": "Ricardo Miller",
+    "date": "a year ago",
+    "comment": "Excellent customer service and from Justyna and Caryn. The dentist is an expert overall with everything. Choosing Rosedale Dental will be the best dentistry decision you'll ever make.",
+    "response-date": "a year ago",
+    "owner-response": "Thank you so much for the great review!  We appreciate the kind words regarding our team and are thrilled with your positive interactions with the team.  We appreciate you choosing Rosedale Dental for your dental concerns!"
+  },
+  {"id":19,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocLnCungOGmegj5ujhaGgPzuH8nFCrUuRJg7fGKlWht-nbUoDw=w90-h90-p-rp-mo-ba2-br100",
+    "name": "Tracey Atwell",
+    "date": "a year ago",
+    "comment": "First time coming and it was crazy nice. Doctor is very pleasant both ladies is super kind and nice . The office is super clean because I'm a clean freak. 😁. I will definitely recommend any one here. …",
+    "response-date": "a year ago",
+    "owner-response": "Thank you so much for the wonderful review.  We appreciate the kind words about the entire team.  We are indeed grateful!"
+  },
+  { "id":20,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocLayHvPXlFpL6bLsEz1l0p_mnEh_T1po7FNh9lKU6yFnw2U5A=w90-h90-p-rp-mo-br100",
+    "name": "Varrel Owens",
+    "date": "a year ago",
+    "comment": "From the first time I walked into the office I was surprised, it's so clean and convenient, I have never waited to get called in a room, the staff is very friendly as well.\nDr. Naseem is so detailed and explains everything so clearly, it's the first time I am having fillings and fell asleep, no pain at all, I have been to a few dental offices and this is by far the best I've experienced.",
+    "response-date": "a year ago",
+    "owner-response": "Thank you for the fabulous review. We truly appreciate the kind words regarding Dr. Naseem and his team!  We are grateful to you for choosing Rosedale Dental for your dental needs!"
+  }
+  
+     ]
 
  },
 {   
@@ -366,7 +777,134 @@
      "totalReviews":"442",
      "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3030.38124027119!2d-74.0014078!3d40.57733950000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c245c8fe2e3701%3A0x4d37dc0ca701ee5a!2sNY%20Dental%20Implant%20Center!5e0!3m2!1sen!2sin!4v1776269965360!5m2!1sen!2sin" ,
      "email":"nydentalimplant@gmail.com",
-     "address":"3375 Neptune Ave, Brooklyn, NY 11224, United States"
+     "address":"3375 Neptune Ave, Brooklyn, NY 11224, United States",
+     "reviews":[
+         {
+    "id":1,        
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjUElwlpCQKZ4MxjOk2Y9WleHWfB3dyGkEi4hKsqQ7Bwi8X86PthLg=w90-h90-p-rp-mo-ba4-br100",
+    "name": "Sheila Boone",
+    "date": "a month ago",
+    "comment": "The staff is very kind and compassionate 🫶🏿❤️ my daughter had an accident at school some years ago and the Doctor who is amazing  fixed her missing tooth the same day  and people are always commenting on her smile  she is 18 now I also go for myself  warm  kind and gentle would definitely recommend to go\nA …"
+  },
+  { "id":2,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjUprcGGWW2UtSzua_-kTrCJ0lDuDo2cSHEuqPPu2Khr8T1FB2XsZg=w90-h90-p-rp-mo-ba2-br100",
+    "name": "Carmen R.",
+    "date": "8 months ago",
+    "comment": "The clinic is always clean, and has a very friendly staff. The dentist is amazing, and the wait time has improved a whole lot.  I've been attending this clinic for 2 years now, and I live a long way from location. That should say a lot."
+  },
+ 
+  
+  { "id":3,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocKjLNc0qcBLQUVfVBWjKXVUwdZOyuaiOgTgLJYAjjKD67YMvQ=w90-h90-p-rp-mo-br100",
+    "name": "Denise Horton",
+    "date": "a month ago",
+    "comment": "They was very professional courteous I was very pleased with the dentist can’t wait to finish my work on my mouth to see the finish results"
+  },
+  
+  { "id":4,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocJMeY1uYYkWADg6DQtQp25jGakhRuZZauKqMULiMyUS53PlMw=w90-h90-p-rp-mo-ba3-br100",
+    "name": "Nikengie Staten",
+    "date": "6 months ago",
+    "comment": "This place provides great service to a very Diverse community. The Staff is friendly,knowledgeable & Always available to help,if needed. The Dr and technicians are All professionals,they wake you feel welcome and Relaxed,especially if you're afraid of the Dentist. Their work is Outstanding for whatever you need. I highly recommend 👌🏾"
+  },
+  { "id":5,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjXoJkt888FOjIWSvA0Wg1k6Q2ld0RWmLCwqDfprunAEdX1YhdOl=w90-h90-p-rp-mo-br100",
+    "name": "Simply A Rose",
+    "date": "7 months ago",
+    "comment": "The doctor and staff are great ⭐️⭐️⭐️⭐️⭐️and I’ve been going here a few years. The only problem is the wait time -⭐️. I waited 2 hours to be seen. 1hour 40 min to get x rays done and another 20 min for the doctor to come. Last time was 1h20 min and I thought that was bad 😩 as much as I love the doctor, they need to work on the scheduling. My whole family goes here Dad, Mom, Sister and everyone has the same problem with the time😪"
+  },
+  {"id":6,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocKvqrDZiKIvAFy2l2aiSJBSJ-MQM43efnzVffUMV7SPj-s-iA=w90-h90-p-rp-mo-br100",
+    "name": "Frank Chieto",
+    "date": "2 months ago",
+    "comment": "Absolutly Love This Office So Much!\nVery Proffessional, Caring.\nDefinatly Recommend DR Lugo."
+  },
+  { "id":7,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocL4yvgefarlb5IUHWs1ayJ3hk4VJ8bOFDXFYzKgNdNqXW9KSQ=w90-h90-p-rp-mo-br100",
+    "name": "Kutlu Bozkurt",
+    "date": "2 months ago",
+    "comment": "Every one were very friendly and helpful I felt safe I am lucky I found my new dentist"
+  },
+  { "id":8,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocJMrrV4CTqF4D7QzeFhHaHw5931N1qO8Lyx0RLaCZNBDd2NDw=w90-h90-p-rp-mo-br100",
+    "name": "P. BurganWaldron",
+    "date": "7 months ago",
+    "comment": "Dr Lugo and her her Team were exceptionally cordial and  their demeanors Would cause many to feel safe and confident in their care. I was truly impressed\nUpon my first visit."
+  },
+  
+  { "id":9,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjUV7qNbYkuhXP_72sp4Iq6d7_AcG859GMPYKR351zbRx1rNDiXZ=w90-h90-p-rp-mo-br100",
+    "name": "Remmington Steele",
+    "date": "Edited 3 months ago",
+    "comment": "They did a great job on my teeth the cleaning with superb everything felt wonderful after it was done I will recommend friends and family else to go there"
+  },
+  { "id":10,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjWFVgMeUxZHhc497aobnFUEk8owfyVM1C5R1iP-Vx0WzTcFzgk=w90-h90-p-rp-mo-ba2-br100",
+    "name": "Eureka Williams",
+    "date": "Edited 8 months ago",
+    "comment": "Was waiting for an approval from my insurance company for our root canal. We wasn’t informed that It was approved. Two days ago, my tooth started having pain every day got worse and worse and worse got up this morning my whole right side of my head all the way down was killing me called The office spoke to The receptionist and he was able to put me in for today to start my root canal. I love this place. They are so nice so kind fast with it but they take their time and do it right. We would definitely recommend people come here🥰"
+  },
+  { "id":11,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocLHzzU-ehn0liE0BwxaaWNOIJyLAlsNmokvrkQwHwjqHBpulA=w90-h90-p-rp-mo-br100",
+    "name": "Nancy Lamboy",
+    "date": "2 months ago",
+    "comment": "You guys are amazing starting from the from desks to the dentist thank you there you be more people like you so caring and compassion thank you I recommend you guys to everyone I know  thank you again and god bless"
+  },
+  { "id":12,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocIAAMldW4-h5hL88Bm7SWAvfPVXBPxQqG2v9VLf-n5WRMdmmw=w90-h90-p-rp-mo-br100",
+    "name": "Lori F",
+    "date": "Edited 4 months ago",
+    "comment": "Dental implant is a warm, caring, and  friendly office. The staff is always polite and professional. The dentist and dental assistants are very knowledgeable and very helpful."
+  },
+  { "id":13,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocIe7GCfiW1zHd7DpNyElvJ8tFOPBqiLJIjVdy-CmIYmRyuPkg=w90-h90-p-rp-mo-br100",
+    "name": "Federico Lopez",
+    "date": "Edited 2 months ago",
+    "comment": "I had a very nice experience.at your place . The staff was very pleasant the\tdoctor was gentle and i will recommand this place to my friends."
+  },
+  { "id":14,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocID-iwjse4gvXX3-EGzTNOeTLiR66BdFJ_OYdKqOast_4pO5g=w90-h90-p-rp-mo-br100",
+    "name": "Marcelino Estrada",
+    "date": "2 months ago",
+    "comment": "The customer service is excellent, the staff make you feel comfortable and confident about the service they provide."
+  },
+  { "id":15,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjVc2KHGImv0hM8j0HlZOI66qveBXNyrR7APhToQIgLpJpIaZQ_o=w90-h90-p-rp-mo-br100",
+    "name": "Gloria Cardona",
+    "date": "4 months ago",
+    "comment": "I have visited this dental office many times before and the staff never disappoints, they are courteous, professional and friendly."
+  },
+  {"id":16,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocIv-j7GAidMGyjunagFFH0qv-W5e65peO8L4wvUoSOqHea91g=w90-h90-p-rp-mo-br100",
+    "name": "Isabel Rivera",
+    "date": "10 months ago",
+    "comment": "First appointment today with 2 of my children and will definitely stay! All the way from the fromt desk to the assistant and tech to the Dr. the beat treatment and care. Thank you for making us feel comfortable and well taken care of! 10/10"
+  },
+  { "id":17,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocJ7ImcPT_vPRZOFhvuYEURgZJM41SvxQnKpARNBG7eP841iaA=w90-h90-p-rp-mo-br100",
+    "name": "Michael Bridges",
+    "date": "4 months ago",
+    "comment": "It's was a 10 very good workers The dentist there does a wonderful job 💯 …"
+  },
+  { "id":18,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocKaUUgNV4bI7lfIgxGKmUcVRlA2lPIOqW0swPbJqUjRBM1_nQ=w90-h90-p-rp-mo-br100",
+    "name": "Priscilla Smith",
+    "date": "a year ago",
+    "comment": "I had a very pleasant experience at the NY Dental Implant Center. Everyone at the front desk was very pleasant. The dentist\nand her assistant were very gentle. They let me know everything that needed to be done that day. My teeth were cleaned and checked, and I’m waiting for my insurance company to approve the work that needs to be done? I feel very at ease at this Dental Center."
+  },
+  { "id":19,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocJb6NwCyEE4uFnuNmdjBp5o_ZNJTZPEJj9iyV2kq_RXkOI0fA=w90-h90-p-rp-mo-br100",
+    "name": "Hajiba driouich",
+    "date": "2 months ago",
+    "comment": "Very good and I am very happy with the service and feel very satisfied with the team"
+  },
+  { "id":20,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocK4f5b5rrZji1q9noqYn5MkWyceYSWAiIea0ehJ6qkX7s_T1w=w90-h90-p-rp-mo-br100",
+    "name": "Amina God's Champion!!!",
+    "date": "a year ago",
+    "comment": "Best dental experience ever!!!\nIf you ever want the best in care for your dental needs, NY Dental Implant Center is the best place to go. It's like taking your teeth on vacation, very relaxing and smooth. I used to be so scared of going to the dentist, but not anymore. I'm so glad I found Dr Lugo. She is the best of the best. So gentle and comforting. I  am very happy and satisfied because I was well taken care of. Thank you so much. So grateful 🥲🥰💯🥳"
+  }
+        ]
  },
 {   
      "id": 7,
@@ -377,7 +915,171 @@
      "totalReviews":"406",
      "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3024.547622411173!2d-73.8329291!3d40.7059597!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c260a507c8dd89%3A0xaa1919adcd4395da!2sGentle%20Dental%20Family%20Care!5e0!3m2!1sen!2sin!4v1776270171977!5m2!1sen!2sin" ,
      "email":"gentledental@gmail.com",
-     "address":"118-60 Metropolitan Ave Suite # 1B, Kew Gardens, NY 11415, United States"       
+     "address":"118-60 Metropolitan Ave Suite # 1B, Kew Gardens, NY 11415, United States",
+     "reviews":[
+        {
+    "id":1, 
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocKPpRejj_egJUZpRhIIVBifiyxM6SNt2m0ZMFrTGI30XKH5Sw=w90-h90-p-rp-mo-br100",
+    "name": "Jared Quinones",
+    "date": "2 months ago",
+    "comment": "I had an excellent experience at this dental clinic. From the moment I walked in, the staff was welcoming, professional, and very organized. The front desk made the check-in process quick and easy, and I didn’t have to wait long to be seen.\n\nThe dentist was extremely knowledgeable and took the time to explain everything clearly before starting the procedure. They made sure I was comfortable the entire time and answered all of my questions patiently. You can tell they genuinely care about their patients’ health and comfort.\n\nThe clinic itself was very clean, modern, and well-maintained, which made me feel confident about the level of care I was receiving.\n\nOverall, I highly recommend this clinic to anyone looking for a professional, friendly, and trustworthy dental team. I’ll definitely be returning for my future dental care.",
+    "response-date": "a month ago",
+    "owner-response": "Thank you, for your kind feedback. We’re glad our team could support you and make you feel comfortable during your visit. We truly appreciate your trust in Gentle Dental."
+  },
+  {"id":2,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocJLWQwi6F5qA0v1IW3j6og7yhbKFeC8ML0Vs2bexSY0X5ANRg=w90-h90-p-rp-mo-br100",
+    "name": "dora garcia",
+    "date": "a month ago",
+    "comment": "The team was amazing! I got seen right away and my tooth was fixed the same day. I’m usually terrified of the dentist but this experience was great.\nDr Roman and Kim were so good, definitely recommend.",
+    "response-date": "Edited a month ago",
+    "owner-response": "Thank you so much for your kind words! We’re so happy to hear that you had such a positive experience with our team. It means a lot to us, especially knowing that we could help make your visit comfortable despite your usual fear of the …"
+  },
+  { "id":3,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocKMRIvuf2YBY6IK86xV7Fvi9neNhAaBJtDIpdupdq6-4NiS9Q=w90-h90-p-rp-mo-br100",
+    "name": "Ana Cruz",
+    "date": "3 months ago",
+    "comment": "On 12/29/2025 I went to Gentle dental as an emergency As my dentist was out of town. And was not do back until January.  I had tremendous pain on a tooth that had a root canal and treatment of that root canal was started. I went there just expecting to be given some antibiotics and sent home. What i received was far more. The staff was so friendly and compassionate. I went there nervous and in pain. And from the receptionist, to the dental assistant to the Dr they were so patient and reassuring. Even though I didnt have an appointment.  They took their time with me. Even gave me time as to weigh my options. I got treated like I been a patient of theirs all along. I highly recommend Gental Dental to anyone who is apprehensive, like me. As they certainly live up to their name Gentle dental. Thank you dr.boruchov and staff for the care you took with me.",
+    "response-date": "3 months ago",
+    "owner-response": "Thank you, Ana, for your kind feedback. We’re glad our team could support you and make you feel comfortable during your visit. We truly appreciate your trust in Gentle Dental."
+  },
+  { "id":4,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocJFibUPE1jGK9CSsY3e3XJe_iZRV0Ma1y5cYSqLSC7zpADN=w90-h90-p-rp-mo-br100",
+    "name": "Jeanine Taylor",
+    "date": "7 months ago",
+    "comment": "Dr. Sham is a wonderful doctor and cares about his patients.  He doesn't rush when he is working and always ask if you are doing OK.\n\nAnd Ms. Kim is an excellent assistant.  Who makes sure you are very well taken care of.\n\nThe main reason I come here is because of these two wonderful people.\n\nIf you need a dentist, this is definitely the place to come to.\n\nP.S.:  When he is giving me my needle, I feel no pain.  I love it.",
+    "response-date": "4 months ago",
+    "owner-response": "Thank you, Jeanine. We truly appreciate your kind words. We're glad Dr. Sham and Ms. Kim make your visits comfortable and well-cared for. Your trust means a lot to us."
+  },
+  { "id":5,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocIg7apjGYOw4QR_vvTKA2fliOMV52ZKz6hqm5taXEx_C-l8uZ0=w90-h90-p-rp-mo-br100",
+    "name": "LaTanya",
+    "date": "7 months ago",
+    "comment": "Awesome experience! Dr. Sham made my tooth extraction smooth and easy, explaining everything so clearly. Kim, his dental assistant, is super sweet and calming, she instantly puts you at ease. And Stephanie at the front desk is so friendly and welcoming! Love this team!",
+    "response-date": "4 months ago",
+    "owner-response": "Thank you, LaTanya. We're happy you felt comfortable and well cared for by our team."
+  },
+  { "id":6,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjV6RoThTc-KMiJmOfoZkJhpjAmJMm2VAlA6AjzRU3oeRBMoqfIi=w90-h90-p-rp-mo-br100",
+    "name": "Chowdhury Fahim",
+    "date": "3 months ago",
+    "comment": "Came here for a wisdom tooth extraction. Didn't feel a thing, everything went smoothly. The staff are really kind and attentive. Everything was clearly communicated from pre to post op. Fair pricing. Would recommend to others.",
+    "response-date": "3 months ago",
+    "owner-response": "Thank you, Chowdhury, for your feedback. We’re glad your procedure went smoothly and that our team could provide clear communication and care. We appreciate the recommendation."
+  },
+  { "id":7,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjWmTLFGfzYN6q1UqanDxNObjyvHmKYPnxYGpvQkNzo8J7ntJeA=w90-h90-p-rp-mo-br100",
+    "name": "James Sobers",
+    "date": "5 months ago",
+    "comment": "Came in for a surgical extraction. The process was quick, easy and painless. Would recommend to anyone looking for a dentist.",
+    "response-date": "5 months ago",
+    "owner-response": "Thank you James, glad your out of pain."
+  },
+  { "id":8,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjVaMedMeboXTOpoE9UQYbJPSX6nXsK9fGGZU583vzIiaZcSLlww=w90-h90-p-rp-mo-br100",
+    "name": "Landri Kennedy",
+    "date": "7 months ago",
+    "comment": "I had a great experience at my appointment with Dr. Sham and Kim at Gentle Dental. Everyone is very kind and accommodating and the office is run super efficiently. Also convenient that they have weekend appointments. I would definitely recommend this office!",
+    "response-date": "4 months ago",
+    "owner-response": "Thank you, Landri. We're glad you had a great experience with Dr. Sham and Kim, and we appreciate your recommendation."
+  },
+  { "id":9,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjUePbD2PNw0AoqbqvHNOP5Tti-EyXlwQN7Hb97DWYR5jNE_cVY=w90-h90-p-rp-mo-br100",
+    "name": "Vic R",
+    "date": "7 months ago",
+    "comment": "Where to start, been seeing Dr Sham together with his assistant Kim. Coming to the office is a no brainer, since I walk in the warmth reception is out of this world. The caring that Kim offers, as she will see you first is truly a blessing , her caring will relax you before Dr Sham comes to see you. She beside making you feel at home also care of your overall mental and physical health. She’s a pro on taking X-Rays. Then Dr. Sham comes in so soft and gentle speaking explaining in details what have to be done and you to do. Gentle hand smooth talking and you feel you are not even laying there as Kim and Dr Sham are working on your teeth. I appreciate their professionalism and caring, making sure I leave satisfied.",
+    "response-date": "4 months ago",
+    "owner-response": "Thank you, Vic. We truly appreciate your thoughtful review. We're glad Dr. Sham and Kim make your visits comfortable and relaxing, and we’re grateful for your continued trust."
+  },
+  { "id":10,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjWaqZxncFLvD-Gs2veA9Wup8v-7wxeeW7qqbIp38H6ywGRt8AI=w90-h90-p-rp-mo-br100",
+    "name": "Juan Reyes",
+    "date": "8 months ago",
+    "comment": "I had a great experience at this dental office. Great staffing! Dr. Roman is such an excellent doctor. He did a cleaning and 3 fillings in about 30 minutes or less.  It didn't hurt at all. His assistant is a sweetheart. I felt really comfortable and happy. 100% recommended.",
+    "response-date": "4 months ago",
+    "owner-response": "Thank you, Juan. We're glad you had a comfortable experience and that Dr. Roman and our team made your visit smooth and painless. We appreciate your recommendation."
+  },
+  { "id":11,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocI0jl00TporrjTdZmIkT9KqqzBHyQnWOfqEySTNrhqwS7V4MA=w90-h90-p-rp-mo-br100",
+    "name": "Rochelle",
+    "date": "2 years ago",
+    "comment": "I have been going to Dr. Roman for the past 8, maybe more years. I had a previous bad/traumatic experience with previous dentists, which created a fear in me about visiting a dentist. However, after my first appointment with Dr. Roman I was …",
+    "response-date": "2 years ago",
+    "owner-response": "Thank you for sharing your positive experience with Dr. Roman and his assistant Kim. It's wonderful to hear that you found them to be true professionals. Their expertise and professionalism likely contributed to your overall satisfaction with your visit."
+  },
+  { "id":12,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjUTRk1GOsjhpa_clpsBePNHX9nV1VP5JO8m9SLpQ2K25wn1ptLB=w90-h90-p-rp-mo-ba3-br100",
+    "name": "Sharon Monteron",
+    "date": "7 months ago",
+    "comment": "Saw Dr Roman today for an emergency appointment. He was great as usual. He is always so patient and takes the time to explain everything. Kim is great as well. She is kind, compassionate and very professional. A+++++",
+    "response-date": "4 months ago",
+    "owner-response": "Thank you, Sharon. We're glad Dr. Roman and Kim made your emergency visit comfortable and well-explained. We appreciate your kind words."
+  },
+  { "id":13,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjWmx3zy2J1GQ28kMK4Rv64108LRryebDvlHJrnsgtxsY51CU1REdA=w90-h90-p-rp-mo-ba3-br100",
+    "name": "Zachary Dackary Doc o Clok",
+    "date": "8 months ago",
+    "comment": "True to their name\nI can’t say enough good things about Gentle Gentle Family Care. I was in urgent need of care, and they saw me the same day — no hassle, no runaround, just compassion and real help. From the moment I walked in, I felt genuinely cared for. The staff was kind, professional, and attentive, and the entire experience lived up to their name — gentle, thorough, and deeply human.\nThank you for taking care of me when I really needed it. Highly recommend.",
+    "response-date": "4 months ago",
+    "owner-response": "Thank you so much, Zachary. We're glad we could help you the same day and that you felt genuinely cared for by our team. We truly appreciate your kind words and recommendation."
+  },
+  { "id":14,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocLsngsr1ln1fx7_0922iXc9iDUc_LY7WKNj6R04hlqmA0_hQQ=w90-h90-p-rp-mo-br100",
+    "name": "Gabi",
+    "date": "11 months ago",
+    "comment": "I’ve been going to this office for over 2 years now and they have some of the best service I’ve seen compared to any other dentist office. I needed an emergency tooth repair due to a piece of my tooth breaking off. Doctor Roman was amazing! He made sure to accommodate for my sensitive teeth by giving extra numbing cream. He was very quick with the whole process-I was out within 30 minutes. Highly recommend this place to anyone who lives here locally. I personally drive over 30 minutes to this dentist.",
+    "response-date": "11 months ago",
+    "owner-response": "Thank you so much for your kind words and for being a loyal patient for over two years! We’re thrilled to hear that Dr. Roman was able to provide you with prompt and compassionate care during your emergency visit. Your trust and willingness …"
+  },
+  { "id":15,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjUd_uS0dRFSn6Y_JGc_3yWxDmwPS-1ubdE0mNIvW4MD45wHLgQ9fQ=w90-h90-p-rp-mo-br100",
+    "name": "Jessica Cadena",
+    "date": "a year ago",
+    "comment": "Gentle Dental Family Care – A Truly Exceptional Experience!\n\nI don’t even know where to begin describing the absolutely AMAZING service I …",
+    "response-date": "a year ago",
+    "owner-response": "Thank you for your wonderful review! We're so glad to hear your first visit was a positive and comfortable experience. It means a lot to know our team—especially Ann, Kim, and Dr. Sham—helped ease your dental anxiety.\n\nWe truly appreciate your kind words and recommendation. Looking forward to seeing you again soon!"
+  },
+  { "id":16,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjVcx0IwXLSFZVmPPvtusFq5L5nHpnIya6BDA3_zEpxgxfTj18fD=w90-h90-p-rp-mo-ba3-br100",
+    "name": "Ilyse Rose",
+    "date": "7 months ago",
+    "comment": "Saw Dr Sham for my root canal, he was gentle and knowledgeable. He also has seen my son multiple times and is very patient. My 6 year old enjoys going to the dentist thanks to him.",
+    "response-date": "4 months ago",
+    "owner-response": "Thank you, Ilyse. We're glad Dr. Sham made both your visits and your son’s visits comfortable. We appreciate your trust."
+  },
+  { "id":17,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocKQ9TTeP2Q96qXRQvgu8tKlutEKcg0rdLCwDRnQ95jAs0LOmg=w90-h90-p-rp-mo-br100",
+    "name": "Rj Mula",
+    "date": "a year ago",
+    "comment": "Phenomenal is an understatement. I called in an Hour before the offices closed as an emergency patient. Was having extreme pain and just knew I needed an extraction. Ann at the front desk was very informative on pricing and financial aid as far as payment options and financing . Great environment on the walk in very clean and inviting. As Kim came in the room to assist me she was beyond friendly and very informative did nothing made me feel so comfortable which was a blessing the fact that I was getting ready for an extraction. Dr. Roman went above and beyond the whole staff stayed after hour just to make sure I was okay . As a patient there’s nothing more you can ask for from a dental office .",
+    "response-date": "a year ago",
+    "owner-response": "Thank you so much for your thoughtful and heartfelt review! We’re truly grateful you chose us during your emergency and are so glad we could help ease your discomfort. Ann, Kim, and Dr. Roman will be especially happy to hear your kind words—it means the world to our team. We’re committed to going the extra mile for our patients, and your feedback reassures us that we’re doing just that. Wishing you a smooth recovery and looking forward to seeing you again under better circumstances!"
+  },
+  { "id":18,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocJVP09TFTIu5bp5rR7J6gmNZkIO7-OefY2uQHtr0zTAjod6FA=w90-h90-p-rp-mo-br100",
+    "name": "Kathie Reason",
+    "date": "11 months ago",
+    "comment": "I was in so much pain, I went to 4 different dentist in 1 day, know one helped me until my mom referred me to gentle dental!!!! They help me with a payment plan. Dentist was amazing no pain at all",
+    "response-date": "11 months ago",
+    "owner-response": "Thank you so much for your kind words, Kathie! We're truly sorry to hear about the pain you were in, but we're so glad we could help when you needed it most. It means a lot to us that your experience was pain-free and that our team could support you with a payment plan. We’ll be sure to share your appreciation with the dentist and staff. Wishing you continued comfort and health!"
+  },
+  { "id":19,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocL6xrs-d8SEhQq8lr1hXcttv36D4jmOqPMXOI5Sp-VJcWmv0s4=w90-h90-p-rp-mo-br100",
+    "name": "Lana Muradov",
+    "date": "2 months ago",
+    "comment": "Had a dental emergency and I was seen the same day, had an extraction done with no pain. Was a great dental experience. Thank you",
+    "response-date": "Edited a month ago",
+    "owner-response": "Thank you for sharing your experience! We’re so glad we could see you the same day and take care of your dental emergency. It’s great to hear that your extraction was comfortable and pain-free. Our team works hard to make every visit as smooth and stress-free as possible. We truly appreciate your kind words and are always here if you need us!"
+  },
+  { "id":20,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocJNAVnhLgYH89m-OcD_oddTuirx71cJuSrXSYPizm9zLFON3TI=w90-h90-p-rp-mo-br100",
+    "name": "I. Vega",
+    "date": "a year ago",
+    "comment": "My first visit on a Sunday due to an abscess/infection and I was greeted by an amazing staff, front desk Lana was detailed in the financials and my coverage. Dental Assistant Kim was so compassionate and explained the procedure like a pro and her friendliness made me more comfortable and calming. Dr. Sham (nickname) is extremely knowledgeable and so very empathetic as he was doing the procedure asking if I was ok and patient with me every step of the process. Gentle Dental is a perfect name as this staff showed professionalism and compassion on my first visit. Definitely 5 stars. I. Vega",
+    "response-date": "a year ago",
+    "owner-response": "Thank you, I. Vega, for your kind words and 5-star review! 🌟 We’re delighted to hear that Lana, Kim, and Dr. Sham provided you with a professional and compassionate experience. Your trust means everything to us, and we look forward to serving you again. Wishing you the best in oral health! 😊🦷 …"
+  }
+  
+     ]       
  },
 {   
      "id": 8,
@@ -388,7 +1090,174 @@
      "totalReviews":"349",
      "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3021.1043096019794!2d-74.022097!3d40.781720899999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25818ed1edaa3%3A0x8a930bff99599074!2sVillalobos%20Dental%20Care!5e0!3m2!1sen!2sin!4v1776270384476!5m2!1sen!2sin" ,
      "email":"villalobosdental@gmail.com",
-     "address":"4801-07 Bergenline Ave, Union City, NJ 07087, United States"
+     "address":"4801-07 Bergenline Ave, Union City, NJ 07087, United States",
+     "reviews":[
+         {
+    "id":1,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocKFN4CYqkE0rvZFm3cZUQurvV91tX6NQJRJsZA9AWzhbPQhKQ=w90-h90-p-rp-mo-br100",
+    "name": "Juan Flecha",
+    "date": "Edited 3 months ago",
+    "comment": "Woke up with a tooth infection and swollen face. They took me in has an emergency and did a wonderful job. When I went to pay the bill I thought it be in the thousands, it was just in the hundreds. I would recommend them to anyone .",
+    "response-date": "3 months ago",
+    "owner-response": "Thank you so much for sharing your experience! We’re glad we could take care of you quickly and help you feel better. Our team is always committed to providing quality care in a timely and affordable way, especially during emergencies. We truly appreciate your recommendation and are happy to be here for you anytime you need us! 😊 …"
+  },
+  { "id":2,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocKfYhwHzqUI7K1OYNN8UM6jXb0ueEq-vPvfxzN89hScW6Rwvw=w90-h90-p-rp-mo-br100",
+    "name": "Monica toro",
+    "date": "Edited a month ago",
+    "comment": "they r wonderful the team is very kind and respectful and I love Ms Villalobos she really cares.",
+    "response-date": "",
+    "owner-response": ""
+  },
+  
+  { "id":3,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjVYWVI4sPy3EP4jDuHNApwEGt5QkCeftjque-y5yD-oegToVjuZ=w90-h90-p-rp-mo-br100",
+    "name": "Vanessa Baquerizo",
+    "date": "4 months ago",
+    "comment": "Dr Villalobos has been our family dentist for so many years, she is so caring, patient with both of us and knowledgeable. Highly recommended 1000 times !!",
+    "response-date": "3 months ago",
+    "owner-response": "Thank you so much for your wonderful review! We’re truly honored that Dr. Villalobos has been your family dentist for so many years. Her caring nature, patience, and dedication to providing knowledgeable care mean so much to us, and we’re grateful for your trust and enthusiastic recommendation. We look forward to continuing to care for your family for many years to come! 😊"
+  },
+  { "id":4,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocIDCNSdX8Ay5nn3iV9fHhCvPGakdVaBC6J384iR4vgJ18GGlw=w90-h90-p-rp-mo-br100",
+    "name": "Wendy Buczek",
+    "date": "6 months ago",
+    "comment": "Excelent waiting time it was close to my appointment  they went above and beyond to accommodate   and made you feel comfortable DrHeisler is a five star dentist i would  highly recommend  the dental  office  you leave their with a good feeling that you were well taken care of wendy klein",
+    "response-date": "5 months ago",
+    "owner-response": "Thank you so much, Wendy! 😊 Dr. Heisler and the entire team truly appreciate your wonderful feedback. We’re so glad to hear that your experience was positive—from the short waiting time to the personalized care. It means a lot to know you felt comfortable and well taken care of. Thank you for your trust and for recommending our office! ⭐🦷"
+  },
+  { "id":5,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocJ-hJXPnw7DowYORUfmzhZEJ4HWCgCTWy3dkA3DmRGsnan9LNs=w90-h90-p-rp-mo-ba2-br100",
+    "name": "Liz Yanez",
+    "date": "8 months ago",
+    "comment": "Dr.Villalobos and the assistant belkis and the receptionist are all wonderful and kind. I went in for a filling and she was amazing and super friendly which made me feel more comfortable. I left smiling , thank you for your service and I’ll be coming again soon.",
+    "response-date": "8 months ago",
+    "owner-response": "Thank you Liz, we are so grateful and humbled by your kindness and we look forward to working with you for many years to come!"
+  },
+  { "id":6,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjU-Mtz2VIdScW5wveZB2mQxNqkjzPMKuBAtUb3pcULF08okxBIbsw=w90-h90-p-rp-mo-ba4-br100",
+    "name": "PY Noto",
+    "date": "9 months ago",
+    "comment": "An amazing experience! The staff were so courteous  and helped my mom with her wheelchair! Dr. Villalobos made a denture in a few days and it looked great on my mom! Will definitely come back again!!!",
+    "response-date": "",
+    "owner-response": ""
+  },
+  { "id":7,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjXRYyBnpKakvhYE1L9b9RgAKHOpA76kPxyWbu394jI7CYp6uuIe=w90-h90-p-rp-mo-br100",
+    "name": "michelle",
+    "date": "6 months ago",
+    "comment": "The Doctor and staff are professional and friendly. I invite anyone who need a dentist to go to Vivian Villalobos DDS, you won’t be disappointed",
+    "response-date": "5 months ago",
+    "owner-response": "Thank you so much for your kind words! 😊 Dr. Vivian Villalobos and the entire team truly appreciate your wonderful feedback. We’re so glad to know you felt well cared for and comfortable during your visit. We always strive to provide professional, friendly, and high-quality care. It will be our pleasure to welcome anyone you recommend! 💙🦷"
+  },
+  { "id":8,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocJlK1A6tEffVE9_6-kYAu4ttP9_Hh31LyV2U0QxpZ6MxJZ3lA=w90-h90-p-rp-mo-br100",
+    "name": "Adriel",
+    "date": "a year ago",
+    "comment": "The service was great, and the professionals were phenomenal. They were all very kind, respectful, and informative. The only negative was that there were a lot of emergencies the day I had my appointment so it took them extremely longer to tend to me. This is not their fault, they cannot control how many emergency walk-in’s they have. My appointment was for around 3 PM. They did not finish my routine cleaning until around 6 PM.",
+    "response-date": "",
+    "owner-response": ""
+  },
+  { "id":9,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjWMHmeUB0rCal0qKYbkrkI1Pm6CjjNpQzlhF70u-r6E7_BwNZuPNA=w90-h90-p-rp-mo-br100",
+    "name": "Rachael Hayes",
+    "date": "8 months ago",
+    "comment": "I’m glad I found Dr. Villalobos! She’s a wonderful dentist and I was having trouble finding dentists in New Jersey that work with the UFT (NYC DOE union). I’m happy to be back on track with regular cleanings.",
+    "response-date": "",
+    "owner-response": ""
+  },
+  { "id":10,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjXabvoQ3lxdYPswAxbUlWoc0kHIeTT3dBoRlR75w15-KKDxl-Y=w90-h90-p-rp-mo-br100",
+    "name": "Steven Monetti",
+    "date": "a year ago",
+    "comment": "Dr. Vivian took her time with me. She was very caring. She’s very thorough. I would recommend her not too many doctors that care about your health like she does. She’s great.",
+    "response-date": "a year ago",
+    "owner-response": "Hi Steven, I appreciate your review, this brings me so much joy to know my patients are happy with my work and satisfied. I look forward to continuing to provide you with caring and excellent services. Thank you for your Review, it greatly appreciated."
+  },
+  { "id":11,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjVUyRTPNObwFR9wkGAcMX9X3ttrSvZEC4XkunnyJyF5wou6JLgOYg=w90-h90-p-rp-mo-ba2-br100",
+    "name": "Edwin F Hidalgo D",
+    "date": "a year ago",
+    "comment": "The Dr. Villalobos, besides being an excellent dentist, has incredibly high human qualities. Her work is extremely professional, and she greatly helps her community. It's very difficult to find someone like that.",
+    "response-date": "",
+    "owner-response": ""
+  },
+  
+  { "id":12,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjVTZAMUkymS40xSSI1AiLgkZi67h2RjSdWyAlxzL-oxA1i3j2Q=w90-h90-p-rp-mo-br100",
+    "name": "Jesus Cepero",
+    "date": "8 months ago",
+    "comment": "Excellent day at the dentist.  Dr. Villalobos does great work.  Fast and painless!  Congratulations to the office staff for their attention.",
+    "response-date": "8 months ago",
+    "owner-response": "Thank you Jesus for your kind words! Look forward to working with you for many years to come!"
+  },
+  { "id":13,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocKqn1eSpJh39dQ1YrMAWmyBlXTqNK4jo7wcNkAEYKczKoRasg=w90-h90-p-rp-mo-ba3-br100",
+    "name": "Bolivar Espinoza",
+    "date": "a year ago",
+    "comment": "Dr. Villalobos a professional and knowledgeable person who has the best ability to perform her work and explain your needs.  I went to her by recommendation of a friend and I leave her office satisfied with her performance Dr Villalobos thank you 😊  for your service I'll be back soon. Thank you again. …",
+    "response-date": "",
+    "owner-response": ""
+  },
+  { "id":14,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocIsroXpGM3n2W0xZPSweH8cPse5GhOPyOZwEGpB9ddeO6biQw=w90-h90-p-rp-mo-br100",
+    "name": "Desiree Valle",
+    "date": "2 years ago",
+    "comment": "She is amazing!!! I’ve been to a lot of dentist and I finally found the one. From the moment she walks in you get a sense of comfort and trust. She is very thoughtful about how you feel and how to make you comfortable! If anyone has doubts don’t she is amazing please change and book with her!! Also the wait time is quick.",
+    "response-date": "",
+    "owner-response": ""
+  },
+  { "id":15,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjUQaKJcgivEq9N0hDt9-HH_cI8Fwg73PwVo7xthHXNTSmhylwE=w90-h90-p-rp-mo-br100",
+    "name": "Henry Pineda",
+    "date": "a year ago",
+    "comment": "I had a great experience with Dr. villalobos. The staff made me feel comfortable and she explained everything she was doing. She turned what could have been a stressful experience into a positive one. Super professional and friendly. Thank you!. Highly recommend!",
+    "response-date": "",
+    "owner-response": ""
+  },
+  { "id":16,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocKgeHT2tWdpZ6xjvHFMHwMDrIacfPg2EreZbUms6n66p8YJAg=w90-h90-p-rp-mo-br100",
+    "name": "Olivia Schmidt",
+    "date": "2 years ago",
+    "comment": "Excellent and kind staff, they took my insurance and got me in so quickly when I had an emergency. They do great work and the listen to your concerns. Would recommend",
+    "response-date": "",
+    "owner-response": ""
+  },
+  { "id":17,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjWJVV_8iu7iDOEb3iVYbapcQe7oTBqZRoj9nWYRxQpU-CPZGonT=w90-h90-p-rp-mo-br100",
+    "name": "Karla Sosa",
+    "date": "2 years ago",
+    "comment": "Shes the ABSOLUTE best! I moved several times and still make sure i come and see her. Very professional and knowledgeable. What sets her apart is her caring and nurturing personality. An absolute GEM!",
+    "response-date": "",
+    "owner-response": ""
+  },
+  { "id":18,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjV4tNXOc90fo2vke95udqgAY7D5dOnVQIH9FjT8XMbJOex12ZrL=w90-h90-p-rp-mo-br100",
+    "name": "Jenniffer Genao",
+    "date": "5 years ago",
+    "comment": "I cannot stress enough the level of professionalism from the staffs ( John and Mauricio) and doctor (Mary). The treatment and the prompt respond to patients needs is outstanding. My insurance is a bit annoying to understand yet the staff took the time to explain it in detail and even go as far as recommending the best options and procedure. I would rate them 10 stars if there was a option. Completely recommend this office.",
+    "response-date": "",
+    "owner-response": ""
+  },
+  { "id":19,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjU9m6Jy9EdwQ36WqVZKOtyAxClal_0ILRbDOhCWs2IrBxQlnIj8=w90-h90-p-rp-mo-ba2-br100",
+    "name": "Belinda Iris Cristobal",
+    "date": "Edited a year ago",
+    "comment": "Dr.Villalobos genuinely cares about her patients. The whole family have her for many years. She is very thorough with cleaning . She is so compassionate.  She is very good in helping my husband and my children with any incident of bad toothache as well as any other tooth issues.  The front desk is also very courteous, accomodating and very thoughtful in making schedules. They are very considerate too. Thank you Dr. Villalobos and staff for continuing to take care of our teeth.",
+    "response-date": "",
+    "owner-response": ""
+  },
+  { "id":20,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjV786g6kd-Vy6kKq4mPrJd2XThXol3f7iC-wvrF5Qcecb2GBkn3=w90-h90-p-rp-mo-br100",
+    "name": "Maria",
+    "date": "2 years ago",
+    "comment": "I used to be a patient years ago, got married, moved and eventually went to another dentist. It’s great to know that after my husband’s death and a relocation back home that the doctor is still working. It’s great knowing someone who helped you is still around. I’m looking forward to my @first back visit @.Dr. Villalobos is a great dentist. Tells it how it is. Love her.",
+    "response-date": "",
+    "owner-response": ""
+  }
+  
+        ]
+
  },
 {   
      "id": 9,
@@ -399,7 +1268,152 @@
      "totalReviews":"454",
      "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3019.1332383679737!2d-73.8922271!3d40.825037!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2f45434699a39%3A0x4f743ce7ff5cb400!2sEl%20Nuevo%20San%20Juan%20Health%20Center-%20Urban%20Health%20Plan!5e0!3m2!1sen!2sin!4v1776270609235!5m2!1sen!2sin",
      "email":"elnuevo@gmail.com",
-     "address":"1065 Southern Blvd #8, Bronx, NY 10459, United States"
+     "address":"1065 Southern Blvd #8, Bronx, NY 10459, United States",
+        "reviews":[
+    
+  { "id":1,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocIZwzuxXd_KYZIr7B8OOUzAxgceU6LsCLFN2oNFxgNJtzC-Mg=w90-h90-p-rp-mo-br100",
+    "name": "Elba Colon",
+    "date": "2 months ago",
+    "comment": "I highly recommend urban health plan to my family and friends the staff are very courteous and very helpful when need help I love my pcp I overall been coming to this place for years and never had issues maybe a few times had to wait a little longer at certain departments but it’s worth the wait I just love the place staff and doctors they doing a great job keep up the good work urban health plan"
+  },
+  { "id":2,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocJe7sXvqXevvpKNY8tjoWyhDrPBKzpjYIl-5nwuvvjRCpawvQ=w90-h90-p-rp-mo-ba3-br100",
+    "name": "Alberto Rodriguez",
+    "date": "2 months ago",
+    "comment": "So much goodness at this place I go the for many reasons health wise and I get the best treatment quick response great staff and doctors I can go on and on all I’m going to say is visit go there if you have any health problems of maybe if you just want info they will help"
+  },
+  { "id":3,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjWyV5YRwceernuat_t2V4sE0YvzZb17Lha28pWbwG--wGY8gOuY=w90-h90-p-rp-mo-ba3-br100",
+    "name": "Laneeka Ocampo",
+    "date": "7 months ago",
+    "comment": "Big up to all the Staffs worker's here.. All the staff that work there are friendly.respectful informative  and helpful.  From the time you walk through the doors to receive services.  Everything is done with professionalism, respect and compassionate. I would highly recommend this place foe all your Healthcare needs. Peace and blessings to you all."
+  },
+  
+  
+  { "id":4,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjU1oOMA6Qtx-L5oMVhnpK_yqoS4qWVOLzebb4XoYPFofBWxvNI=w90-h90-p-rp-mo-ba3-br100",
+    "name": "Orianet Monsanto",
+    "date": "10 months ago",
+    "comment": "I couldn’t be happier with the care my children receive at El Nuevo San Juan. The pediatric doctor is incredibly patient, knowledgeable, and genuinely cares about their well-being. Every visit feels personal and thorough, and I always leave feeling confident that my kids are in great hands.\n\nThe staff is warm, professional, and helpful, and they always do their best to make the experience smooth—even when the office is busy. I truly appreciate their dedication and highly recommend this clinic to other parents!"
+  },
+  
+  
+  { "id":5,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjX0PS0dKOzCWJpPoW3O0UZtg_15-KkZUUYziBwZQZsiPom55XpQ=w90-h90-p-rp-mo-ba4-br100",
+    "name": "Lizbeth Sanchez",
+    "date": "11 months ago",
+    "comment": "Many of the staff are friendly and have good customer service and know how to assist,the wait can be a bit long which i believe does need improvement. And many staff memebers seem to not enjoy being there but besides that and the environment we are in, its a good place to receive care."
+  },
+  
+  { "id":6,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjWThTLzd8jCP_Cnw1TNISFjm8HmzZdX3ihx4T5259mG_O6MPM6neQ=w90-h90-p-rp-mo-br100",
+    "name": "Jea Frias",
+    "date": "2 months ago",
+    "comment": "Urban Health plan , for me personally is a good place to get good care of your health for you and your love ones."
+  },
+  
+
+  { "id":7,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjVLhLE9zlhi2Gq4pOXjCJCdrD8VwqJrpTVN5JjAY-oPNWzdkAYAQg=w90-h90-p-rp-mo-ba4-br100",
+    "name": "A Martínez",
+    "date": "7 months ago",
+    "comment": "The time I spent there was around 15 minutes and I was taking care of right away. Furthermore, the staff was outstanding.."
+  },
+  { "id":8,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjWzgH9Y4QeEAhW5SI0avrpPofKJzqBx34VSCWgyvDAgznp8dKfH=w90-h90-p-rp-mo-ba3-br100",
+    "name": "Ana Lopez",
+    "date": "6 months ago",
+    "comment": "A nice addition to the clinic.would recommend to friends who need quick assistance."
+  },
+
+  { "id":9,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjXSej3Kp-jSk7mMJklY0VTK1V0fC7smEnC9xI4sfHGzLSnnJeSF=w90-h90-p-rp-mo-br100",
+    "name": "jessica fernandez",
+    "date": "3 years ago",
+    "comment": "The OB Tech Maribel is great & she gave me a good impression on the clinic because she was very attentive & understanding on me being late for my appointment & makes things comfortable as possible. She’s also very nice. I don’t wait to be seen at all both times I’ve had a sonogram appointment. Also the security guard with the long skinny dreadlocks is very nice as well. He saw I was eating a hot dog & gave me 2 bottles of water to go with it  😊"
+  },
+  
+  {"id":10,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocJyMbw6JMPZ6GWdy1pizeAsGXnbuwKTR4OHJhj8lsGKGEmbeQ=w90-h90-p-rp-mo-br100",
+    "name": "Chyenne Ramos",
+    "date": "10 months ago",
+    "comment": "I love here I never had a problem my daughter gets well taken care of here . I also go here and they also take care of me 10/10"
+  },
+  
+  {"id":11,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjWldN2VLS5GDz3UPNvx4z3rP_TH6xo8AqBNNNrqEX8w_QjZaW0=w90-h90-p-rp-mo-ba2-br100",
+    "name": "Sandra B",
+    "date": "10 months ago",
+    "comment": "It's good place, my Doctor was great , helped with all my issues, I go here for bunch of years"
+  },
+  
+  { "id":12,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocLLSrRasc7vwnS44thBQapV9d9XGqQ-DTWbfbjwdbCX-WtzPw=w90-h90-p-rp-mo-br100",
+    "name": "Olympia Wilson",
+    "date": "6 years ago",
+    "comment": "I have been a patient with the Clinic since October of 1991. I love the medical staff and teams in the different department. I thoroughly enjoyed the prenatal team. They were able to teach me about family history and genetics. More importantly, I love the fact that my children's doctor was mine. Big Shout Out to Dr. Mevs!!!!"
+  },
+  
+  
+  
+  
+  { "id":13,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjUo19_Pgj6xBAduS0XZoM-WcVISGZxPQU2POuRETCK5rsHedTJf=w90-h90-p-rp-mo-ba3-br100",
+    "name": "Sandi Santiago",
+    "date": "8 years ago",
+    "comment": "I truly loved this place! Today I had my appointment with a GYN Dr. Napoli ( it's been awhile I haven't seen a GYN Dr. ) He was very sweet,and humorous. He sang a song to me!  That was a plus for me. Also, I would like to mentioned a lovely nurse name Ingrid. She was very professional, caring and very sweet. She was in the room with me while the Dr was checking me.  Dr. was straight forward with me regarding on my health and how important it is. I really recommend this place to all women. I never had a wonderful experience like today and professionals that really care for the patients. Today won't be last visit. Finally, this place is super clean."
+  },
+  
+  
+  { "id":14,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjUZ8oIC7YllJlEGLBZSEFMYUqgYSf19Frt6HMTCuAcU9B2dMndz=w90-h90-p-rp-mo-br100",
+    "name": "Cesar acosta",
+    "date": "3 months ago",
+    "comment": "I got to that clinic is the best"
+  },
+  
+  
+  
+  { "id":15,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjWBq4xO86Y8iHbeopvlXVbjMIpGA1oNwmJ9iFdqHGinhqGAH1w=w90-h90-p-rp-mo-br100",
+    "name": "charles ojeda",
+    "date": "8 years ago",
+    "comment": "I truly love this clinic! Everyone is bilingual but!! The \"walk in\" area on mondays and fridays doesn't have enough doctors. I spend 4 hours and a half for only a cough suppressant and tylenol btw the medication did not work only works if I drink more than what he suggested to take on daily basis..still coughing cant sleep at night cus I choke during sleeping.. went today and they wanted me to pay more money out my poket to see another doctor when it was easier to send another cough suppressant refill to the farmacy since I have another appointment on next Thursday"
+  },
+  { "id":16,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjVg8gw5g1tHm6Wlnhg57wj3S7fNPCqlzK55mbs9VO1zTzxdC5Wk=w90-h90-p-rp-mo-br100",
+    "name": "Grecia Barrios",
+    "date": "11 months ago",
+    "comment": "People were polite, nurse was helpful and Dr Oo was wonderful."
+  },
+  { "id":17,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocKvpm53k8wOIhCxZEoI10Zsat9mhBcsFPWqfpBXhh0yMJCSE3y2=w90-h90-p-rp-mo-br100",
+    "name": "Kim Kennedy",
+    "date": "3 months ago",
+    "comment": "Awesome services and treatment!"
+  },
+  { "id":18,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjUwb4VC0FsgEzFn-QVIy3UVYGuncoILRkDI05rOKAzGWNhTWsi6=w90-h90-p-rp-mo-br100",
+    "name": "Marina Santiago",
+    "date": "8 months ago",
+    "comment": "Know is quicker to see a doctor than before I love it."
+  },
+  
+  { "id":19,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjXhqzAijCSQXrzqvaYU0cWMVY9epVPwzl1jmosIEbzwn6JV4isBHA=w90-h90-p-rp-mo-br100",
+    "name": "Lashawn Jones",
+    "date": "9 years ago",
+    "comment": "The doctor are on point.. They have the best doctor care for me..\nI've been with this clinic for years now moved to Brooklyn wasn't satisfied came  back to the urban health center..."
+  },
+  { "id":20,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocLztolDukeHrhcwH5cLlWO7S3Bg2V3VMI-1Gcojvf17_pZysQ=w90-h90-p-rp-mo-br100",
+    "name": "Arelis Gonzalez",
+    "date": "8 years ago",
+    "comment": "Excellent atmosphere, staff is very professional and is very clean and last but not least the doctors from primary to pediatrics are very excellent in treatment of myself and my little one."
+  }
+  
+        ]
  },
 {   
      "id": 10,
@@ -411,7 +1425,180 @@
      "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3028.9558468006103!2d-73.99779749999999!3d40.6087978!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2450e2ae35f8d%3A0xb11724e5d4c510bc!2sDENTAL%20CENTER%20OF%20BROOKLYN!5e0!3m2!1sen!2sin!4v1776271002398!5m2!1sen!2sin" ,
      "email":"royzman@gmail.com",
      "address":"8100 19th Ave, Brooklyn, NY 11214, United States",
-     "primaryColor":"#0223c2"
+     "primaryColor":"#0223c2",
+     "reviews":[
+         {
+    "id":1,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocLR-6c69GushZ6-XsoGMv3yh6IlenYxwcMANOxHh92VQf-awA=w90-h90-p-rp-mo-br100",
+    "name": "Jaxongir Sarimsakov",
+    "date": "5 months ago",
+    "comment": "⭐️⭐️⭐️⭐️⭐️\nReview for Dr. Baketova – Dental Center of Brooklyn\nI had an excellent experience with Dr. Baketova at the Dental Center of Brooklyn. From the moment I walked in, the staff was welcoming and professional. Dr. Baketova took the time to explain everything clearly, making sure I understood each step of my treatment. She is gentle, attentive, and has a very calming presence — which really helped ease my anxiety about going to the dentist.\nThe office is clean, modern, and well-equipped, and appointments always run on time. I appreciated how thorough Dr. Baketova was with both the exam and cleaning, and she offered helpful advice on maintaining good oral health without being pushy about unnecessary procedures.\nOverall, I highly recommend Dr. Baketova and the team at the Dental Center of Brooklyn to anyone looking for a caring, knowledgeable, and skilled dentist. You can tell she truly cares about her patients’ comfort and long-term dental health",
+    "response-date": "5 months ago",
+    "owner-response": "Thank you so much for your wonderful 5-star review, Jaxongir! We’re thrilled to hear that Dr. Baketova and our team made your visit comfortable and informative. It’s great to know that you appreciated our clean, modern office and the care we provide. Your kind words mean a lot, and we truly appreciate your recommendation. We look forward to seeing you again!"
+  },
+  
+  { "id": 2,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjWlA9B06VtqF2M9q7Zg5l2TxIUzlyQRvHo7-kapTiaxYR9z017-jw=w90-h90-p-rp-mo-ba2-br100",
+    "name": "anna torres",
+    "date": "2 months ago",
+    "comment": "Just had 2 root canals done. What a amazing experience my mouth is not swollen or in pain. During the procedure I was explained what he was doing and was asked if I am ok. To a person who suffers anxiety I could not recommend a better place,the staff is amazing from the moment you walk in as well. Thank you for helping this mom get her smile back 😀",
+    "response-date": "",
+    "owner-response": ""
+  },
+  
+
+  { "id":3,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjVcwRURajbfZQE_tMkOnwRce4JTBFG_7Fvdefog4YPPdRd3ML8z=w90-h90-p-rp-mo-br100",
+    "name": "Alex K",
+    "date": "a month ago",
+    "comment": "Dr. Mike did a great job extracting my tooth. There was no pain during the extraction and after. It only took him a few minutes to do it.",
+    "response-date": "",
+    "owner-response": ""
+  },
+  { "id":4,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocKO2K2-g2xexDPYlfXaQ0D6gRe1wD1Z6TI_AG6lPQnxtciKWg=w90-h90-p-rp-mo-br100",
+    "name": "joseph s",
+    "date": "3 months ago",
+    "comment": "Reception Manager Lana is always pleased to help the patient as she is knowledgeable and professional in her work,\nThe DSS M. Mirham is excellent in providing exceptional dental work along with his assistants",
+    "response-date": "",
+    "owner-response": ""
+  },
+  { "id":5,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocI_mvq-Emye7dh6EMKPWaMKj2h-FqNTedlzLv6Tlr2gcoDGrA=w90-h90-p-rp-mo-br100",
+    "name": "Rozanna Kydyrbaeva",
+    "date": "7 months ago",
+    "comment": "I can’t say enough good things about DC Feinstein and the entire team! From the moment you walk in, the office feels welcoming and professional. The staff is friendly, attentive, and truly cares about your comfort. Dr. Feinstein is not only skilled and knowledgeable but also takes the time to explain everything and put you at ease. The level of care here is outstanding — you can tell they genuinely want the best for their patients. I actually look forward to my visits now. Highly recommend to anyone looking for a dental office that goes above and beyond!",
+    "response-date": "",
+    "owner-response": ""
+  },
+  { "id":6,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocIEJIzbsdgj3VCuM8IDO3qRSmp6igN5TkM9fojx3zabH9lxUmg=w90-h90-p-rp-mo-ba3-br100",
+    "name": "Adijat Balogun",
+    "date": "5 months ago",
+    "comment": "Dental  center of Brooklyn is a good place to visit they are very good of their profession,  they are all friendly nice and calm ,they welcome you well and they do everything clean clean with you . I love this place , I recommend this place to go . All the nurses are very nice even the receptionist they're one family.  Good 👍 job to everyone.",
+    "response-date": "5 months ago",
+    "owner-response": "Thank you so much for the wonderful 5-star review, Adijat! We truly appreciate your kind words. Our team works hard to provide a welcoming, clean, and professional environment, and we’re so glad you felt comfortable and well cared for. Thank you for recommending us — we look forward to seeing you again!"
+  },
+  
+  { "id":7,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocIwM37rrs06DIKu0-IpBJT1ugLcJCpj3KKnvCspBMF6qNTzMQ=w90-h90-p-rp-mo-br100",
+    "name": "Mila Boyko",
+    "date": "6 months ago",
+    "comment": "Had the best experience doctor explained my treatment plan everything got approved by my insurance they were very accommodating by getting me a fast appointment due to an emergency I’m very happy definitely recommend the front desk is very professional",
+    "response-date": "5 months ago",
+    "owner-response": "Thank you so much for your 5-star review, Mila! We’re glad we could accommodate your emergency appointment and that your treatment plan was clear and approved by your insurance. We truly appreciate your kind words about our team and front desk, and we’re happy you had a positive experience. We look forward to seeing you again!"
+  },
+  { "id":8,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocID4VLbkQouO9XIBuZRudziPNTzHdeKoU1qYBC61a0SL_eJhg=w90-h90-p-rp-mo-br100",
+    "name": "Mickela",
+    "date": "7 months ago",
+    "comment": "I’ve been going to Dr. Yu’s office for several visits now, and every experience has been outstanding. From the moment you walk in, the staff is warm, professional, and efficient. The office is clean, modern, and welcoming — which really helps ease any dental anxiety.\n\nDr. Yu is not only highly skilled but also incredibly attentive and gentle. He/She takes the time to explain procedures clearly and always makes sure you’re comfortable before starting anything. I never feel rushed, and I always leave with the sense that my dental health is truly being looked after.\n\nWhether it’s a routine cleaning or something more complex, I’ve always felt I was in excellent hands. The hygienists are also top-notch — very thorough yet gentle, and always kind.\n\nI highly recommend Dr. Yu and the entire team to anyone looking for a trustworthy, caring, and skilled dental provider. Five stars all the way!",
+    "response-date": "",
+    "owner-response": ""
+  },
+  { "id":9,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocKs0jUND3N8KZrc89-CJ0pMHdbsqNFjA2p4R8fYKtw78i5oNg=w90-h90-p-rp-mo-br100",
+    "name": "Luz Elena Feliciano",
+    "date": "6 months ago",
+    "comment": "Everyone at the dental office are very caring and professional .they made me feel very comfortable and explained to me step by step how to put on my dentures and take them off the doctor did not let me leave until he was sure that I understood what to do .",
+    "response-date": "6 months ago",
+    "owner-response": "Thank you so much for your kind words! We’re so glad to hear that you felt comfortable and well taken care of during your visit. Our team is always happy to take the time to explain everything thoroughly, and we’re delighted that you left feeling confident with your dentures. We truly appreciate your feedback and look forward to seeing you again!"
+  },
+  { "id":10,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocJxrUbRG3TE91Id2xqdNDo8AGEH30JT1kpST0_rMFvt0dLslw=w90-h90-p-rp-mo-br100",
+    "name": "рвовлв слвлалал",
+    "date": "6 months ago",
+    "comment": "Dr Daniel Royzman did an outstanding service for me regarding my implants and gave me the exact treatment plan I needed compared to my previous dentist I had in the past I am very happy with the services and the front desk was very accommodating",
+    "response-date": "5 months ago",
+    "owner-response": "Thank you so much for your 5-star review! We’re thrilled to hear that Dr. Daniel Royzman provided excellent care for your implants and created the exact treatment plan you needed. We’re also glad our front desk team was accommodating. We truly appreciate your feedback and look forward to seeing you again!"
+  },
+  { "id":11,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocJDGNQS1PtcXt8c8AeUdy0Tnge7aLsVe4PqQV6ubZsQpa3OOA=w90-h90-p-rp-mo-br100",
+    "name": "Betsy Bolido",
+    "date": "3 months ago",
+    "comment": "I like the excellent services done for my daughter at the Dental Center of Brooklyn.My special need daughter was very happy and comfortable.The place is clean and the staff are wonderful.Thank you to all.Highly recommended!!! 🙂 …",
+    "response-date": "",
+    "owner-response": ""
+  },
+  
+  { "id":12,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocJtwxyppdqDMd8bLQ4QjqHsup96aXeRnrWrlhk0OKx8NTfAAA=w90-h90-p-rp-mo-br100",
+    "name": "Gulnoza Saidova",
+    "date": "6 months ago",
+    "comment": "I had the best experience very talented dental assistant Daria as well as the dr panel which she was helping the front desk did a fantastic job with scheduling it was a fast appointment the manager Lana made sure everything was organized to my liking and she does a wonderful job with her staff and front desk",
+    "response-date": "6 months ago",
+    "owner-response": "Thank you so much for sharing your experience! We’re thrilled to hear that Daria, Dr. Panev, our front desk team, and our manager Lana all made your visit smooth and enjoyable. We’re proud of our staff’s hard work and dedication to patient care, and your kind words mean a lot to us. We look forward to welcoming you back to the office!"
+  },
+  
+  { "id":13,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocKSKm4ZN1HgFARIb9B8u1zpA6ynZCv5RDHY4Sn5fUr1zVY_Yg=w90-h90-p-rp-mo-ba5-br100",
+    "name": "D A",
+    "date": "5 months ago",
+    "comment": "Dr. Diana Grubaya has been fantastic and I couldn't recommend her more. She is always attentive, worlds quickly and all round highly reliable .",
+    "response-date": "5 months ago",
+    "owner-response": "Thank you so much for the 5-star review! We’re delighted to hear that Dr. Diana Grubaya provided attentive and reliable care. Your kind words mean a lot to our team, and we truly appreciate your recommendation. We look forward to seeing you again!"
+  },
+  
+  { "id":14,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjWlFi5KxtxrRjXca8BAVXKi-693usBD_XyqadP8F6jV5fTTMw=w90-h90-p-rp-mo-br100",
+    "name": "T A",
+    "date": "5 months ago",
+    "comment": "The orthodontist did the phenomenal job on my teeth I've been going to her for 12 months and the completed work is very proper and I'm very happy",
+    "response-date": "5 months ago",
+    "owner-response": "Thank you so much for the 5-star review! We’re thrilled to hear that you’re happy with the results of your orthodontic treatment. Our orthodontist is dedicated to providing excellent care, and it’s wonderful to know you’re satisfied after your 12-month journey. We truly appreciate your feedback and look forward to seeing you again!"
+  },
+  { "id":15,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocKl6RFXjDif7H0bwgc4TXGEAK9ltCePMwgpyLvBK2YlDK1_Xd2u=w90-h90-p-rp-mo-ba2-br100",
+    "name": "Joseph Varroney",
+    "date": "5 months ago",
+    "comment": "Dr Michael is great gave me a thoroughly great explanation very detailed on my exam and the hygienist ludmila cleaned very gentle great job dental office",
+    "response-date": "",
+    "owner-response": ""
+  },
+  { "id":16,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocLFpRvkatX6gB1aAmqQK7m-NceYJmReoNwzOIGreMYECVeNPA=w90-h90-p-rp-mo-br100",
+    "name": "Taras Shcherbiuk",
+    "date": "5 months ago",
+    "comment": "Had such a wonderful experience wait time is understandable because of many emergency but this office does a great job which is why i like coming",
+    "response-date": "",
+    "owner-response": ""
+  },
+  { "id":17,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjVPsmnlQm_-QXh9THBj3svVHXxhihfTq-ETHuz8OrFi1O6xMXs=w90-h90-p-rp-mo-br100",
+    "name": "gioa xolme",
+    "date": "6 months ago",
+    "comment": "Great dental assistant speak Georgian helped me a lot and dr did all of my treatment plan explaining carefully everything",
+    "response-date": "5 months ago",
+    "owner-response": "Thank you so much for your wonderful 5-star review, Gioa! We’re happy to hear that our dental assistant was able to assist you in Georgian and that the doctor explained your treatment plan clearly. We truly appreciate your kind words and look forward to caring for you again!"
+  },
+  { "id":18,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocK7Faq77B0xcIz4YppizJ8thfpVRso6aLbXKnFK1mGwThUS9w=w90-h90-p-rp-mo-br100",
+    "name": "Vladimir Zadbaev",
+    "date": "5 months ago",
+    "comment": "Great job my rootcanal was so difficult to do and no other dental office wanted to take me on but this office completed everything for me did a great job dr Feinstein",
+    "response-date": "",
+    "owner-response": ""
+  },
+  { "id":19,
+    "profile": "https://lh3.googleusercontent.com/a/ACg8ocL5aNIf4OFMXlW2XSxscfgIMqzH6DISl5T-x8VXFC0Q3EiDTg=w90-h90-p-rp-mo-br100",
+    "name": "Viktar Dudarau",
+    "date": "9 months ago",
+    "comment": "Modern and cozy dentistry with friendly staff. I have wonderful and warm impressions of their work. Dr. Royzman works quickly and efficiently, which is very important for patients. I sincerely recommend this clinic to everyone.",
+    "response-date": "5 months ago",
+    "owner-response": "Thank you so much for your wonderful 5-star review, Viktar! We’re thrilled to hear that you had a positive experience in our modern and cozy clinic. Dr. Royzman and our team truly appreciate your kind words, and we’re glad you felt well cared for. Thank you for recommending us, and we look forward to seeing you again!"
+  },
+  
+  
+  { "id":20,
+    "profile": "https://lh3.googleusercontent.com/a-/ALV-UjUcgaUuFLff-P9VzNPDxRwQzL12TMlS7lepK5ImygfjS4N8UDojYg=w90-h90-p-rp-mo-br100",
+    "name": "Ms Cai",
+    "date": "8 months ago",
+    "comment": "Dr Moussa was awesome with my dad. He was able to resolve a tooth issue that would have resulted in losing all his bottom teeth. All other dentist had suggested to pull it and get either denture or implants for his bottom teeth.  Because of Dr Moussa's ingenious procedure,  my dad, not only saved his all of his teeth, he also saved  thousands of dollars. He is so thrilled! Thank you so much Dr Moussa. You are a godsend!",
+    "response-date": "7 months ago",
+    "owner-response": "Thank you so much, Ms. Cai! We’re thrilled to hear that Dr. Moussa was able to help your dad save his teeth and that he’s so happy with the results. We truly appreciate your kind words and are grateful for your trust in our team!"
+  }
+  
+     ]
  },
  {
      "id": 11,

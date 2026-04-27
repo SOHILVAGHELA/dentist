@@ -948,7 +948,7 @@
         const mapFrame = document.getElementById("mapFrame");
         const addressEl = document.getElementById("address");
         const starsEl = document.querySelectorAll(".stars");
-        const doctor = data.find((item) => item.slug === slug);
+        const doctor = data.find((item) => item.slug === slug) || data[0];
         const favicon = document.getElementById("favicon");
 
         if (favicon) {

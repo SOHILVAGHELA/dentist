@@ -10,6 +10,7 @@
     "email": "tcndentalcare@gmail.com",
     "address": "161-10 Jamaica Ave #313-3, Jamaica, NY 11432, United States",
     "primaryColor": "#0223c2",
+    "experienced": "15+",
     "reviews": [
       {
         "id": 1,
@@ -194,7 +195,8 @@
         "response-date": "",
         "owner-response": ""
       }
-    ]
+    ],
+    "beforeafterImages": true
   },
   {
     "id": 2,
@@ -202,6 +204,7 @@
     "clinic": "Queens Children Dentist",
     "phone": "(718) 805-7777",
     "gmRating": "4.7",
+    "experienced": "15+",
     "totalReviews": "669",
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3025.1280238020613!2d-73.8524312!3d40.693177999999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25dfcbf65dec7%3A0x59ecd73e82589130!2sQueens%20Children%20Dentist!5e0!3m2!1sen!2sin!4v1776267294467!5m2!1sen!2sin",
     "email": "queenschildren@gmail.com",

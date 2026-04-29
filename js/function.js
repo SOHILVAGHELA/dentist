@@ -47,11 +47,6 @@
     });
   }
 
-  /* Init Counter */
-  if ($(".counter").length) {
-    $(".counter").counterUp({ delay: 6, time: 3000 });
-  }
-
   /* Contact form validation */
   var $contactform = $("#contactForm");
   $contactform.validator({ focus: false }).on("submit", function (event) {

@@ -149,24 +149,6 @@ body {
   background-color: transparent;
 }
 
-.reveal {
-  position: relative;
-  display: -webkit-inline-box;
-  display: -ms-inline-flexbox;
-  display: inline-flex;
-  visibility: hidden;
-  overflow: hidden;
-}
-
-.reveal img {
-  height: 100%;
-  width: 100%;
-  -o-object-fit: cover;
-  object-fit: cover;
-  -webkit-transform-origin: left;
-  transform-origin: left;
-}
-
 .row {
   margin-right: -15px;
   margin-left: -15px;
@@ -986,109 +968,6 @@ header.main-header .header-sticky.active {
 
 .hero.bg-image .hero-content .google-rating ul li {
   color: var(--white-color);
-}
-
-.hero.bg-image.hero-slider {
-  background: none;
-  padding: 0;
-}
-
-.hero-slider-layout .hero-slide {
-  position: relative;
-  padding: 150px 0;
-}
-
-.hero.hero-slider .hero-slider-layout {
-  position: relative;
-  z-index: 2;
-}
-
-.hero-slider-layout .hero-slide::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  right: 0;
-  left: 0;
-  background-color: var(--primary-color);
-  opacity: 70%;
-  width: 100%;
-  height: 100%;
-  z-index: 1;
-}
-
-.hero.hero-slider .hero-slider-layout .hero-slide .hero-slider-image {
-  position: absolute;
-  top: 0;
-  right: 0;
-  left: 0;
-  bottom: 0;
-}
-
-.hero.hero-slider .hero-slider-layout .hero-slide .hero-slider-image img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
-.hero.hero-slider .hero-slider-layout .hero-slide .hero-content {
-  position: relative;
-  z-index: 2;
-  width: 100%;
-  max-width: 800px;
-  margin: 0 auto;
-}
-
-.hero-slider-layout .swiper-pagination {
-  bottom: 80px;
-}
-
-.hero-slider-layout .swiper-pagination .swiper-pagination-bullet {
-  width: 15px;
-  height: 15px;
-  background: var(--white-color);
-  opacity: 1;
-  transition: all 0.3s ease-in-out;
-  margin: 0 5px;
-}
-
-.hero-slider-layout .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: var(--accent-color);
-}
-
-.hero.bg-image.hero-video {
-  position: relative;
-  overflow: hidden;
-}
-
-.hero.bg-image.hero-video::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  background-color: var(--primary-color);
-  opacity: 70%;
-  width: 100%;
-  height: 100%;
-  z-index: 1;
-}
-
-.hero-video .hero-bg-video {
-  position: absolute;
-  top: 0;
-  right: 0;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  height: 100%;
-}
-
-.hero-video .hero-bg-video video {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
 }
 
 /************************************/
@@ -1987,14 +1866,6 @@ footer.main-footer {
   font-size: 24px;
   font-weight: 600;
   text-transform: capitalize;
-}
-
-.company-carousel .swiper-wrapper .swiper-slide {
-  text-align: center;
-}
-
-.company-carousel .swiper-wrapper .swiper-slide .company-logo img {
-  max-width: 200px;
 }
 
 .about-how-it-work .how-it-work-content {
@@ -3301,7 +3172,7 @@ footer.main-footer {
 .trust-item small {
   display: block;
   font-size: 12px;
-  color: #777;
+  color: #555;
   font-weight: 500;
 }
 .trusted-by-google {
@@ -3612,14 +3483,6 @@ footer.main-footer {
     font-size: 50px;
   }
 
-  .hero-slider-layout .hero-slide {
-    padding: 100px 0;
-  }
-
-  .hero-slider-layout .swiper-pagination {
-    bottom: 40px;
-  }
-
   .cta-box {
     padding: 25px 0;
   }
@@ -3910,10 +3773,6 @@ footer.main-footer {
 
   .insurance-carousel-title h3 {
     font-size: 22px;
-  }
-
-  .company-carousel .swiper-wrapper .swiper-slide .company-logo img {
-    max-width: 180px;
   }
 
   .about-how-it-work .how-it-work-img {
@@ -4437,14 +4296,6 @@ footer.main-footer {
     line-height: 1.5;
   }
 
-  .hero-slider-layout .hero-slide {
-    padding: 50px 0 80px;
-  }
-
-  .hero-slider-layout .swiper-pagination {
-    bottom: 30px;
-  }
-
   .cta-box-item {
     margin-right: 0px;
     padding-right: 0px;
@@ -4637,10 +4488,6 @@ footer.main-footer {
 
   .insurance-carousel-title h3 {
     font-size: 20px;
-  }
-
-  .company-carousel .swiper-wrapper .swiper-slide .company-logo img {
-    max-width: 150px;
   }
 
   .dental-process-image .dental-process-number h3 {

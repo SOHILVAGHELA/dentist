@@ -926,7 +926,7 @@ header.main-header .header-sticky.active {
   background-size: cover;
   background-image: none;
   background-color: #101010;
-  padding: 100px 0;
+  padding: 50px 0 0;
 }
 
 .hero.bg-image::before {
@@ -3186,21 +3186,6 @@ footer.main-footer {
   height: 30px;
   background: #eee;
 }
-.sticky-cta {
-  position: fixed;
-  bottom: 20px;
-  left: 50%;
-  transform: translateX(-50%);
-  z-index: 999;
-}
-.cta-btn {
-  background: var(--accent-color);
-  color: #fff;
-  padding: 14px 28px;
-  border-radius: 50px;
-  font-weight: 600;
-  white-space: nowrap;
-}
 
 .review-grid {
   display: grid;
@@ -3210,9 +3195,6 @@ footer.main-footer {
 }
 .review-card .stars {
   color: gold;
-}
-.our-reviews {
-  padding: 4rem 0;
 }
 .verified {
   font-size: 12px;
@@ -3285,7 +3267,6 @@ footer.main-footer {
   z-index: 1;
 }
 .before-after {
-  padding: 100px 0;
   background: linear-gradient(180deg, #f8fbff 0%, #ffffff 100%);
 }
 
@@ -3337,6 +3318,9 @@ footer.main-footer {
   position: sticky;
   top: 0;
 }
+section {
+  padding: 100px 0;
+}
 @media only screen and (max-width: 1024px) {
   .navbar {
     padding: 12px 0px;
@@ -3357,7 +3341,7 @@ footer.main-footer {
   }
   .section-title h3 {
     flex-direction: column;
-    margin-bottom: 1.3rem;
+    margin-bottom: 12px;
   }
   .hero-content-body {
     text-align: center;
@@ -3488,7 +3472,7 @@ footer.main-footer {
   }
 
   .hero.bg-image {
-    padding: 100px 0;
+    padding: 40px 0 0;
   }
 
   .hero.bg-image .hero-content .section-title h1 {
@@ -4197,9 +4181,15 @@ footer.main-footer {
   .error-page-content-body p {
     margin-bottom: 20px;
   }
+  section {
+    padding: 50px 0;
+  }
 }
 
 @media only screen and (max-width: 767px) {
+  section {
+    padding: 30px 0;
+  }
   .ba-grid {
     gap: 10px;
   }
@@ -4223,7 +4213,11 @@ footer.main-footer {
     margin-bottom: 10px;
   }
   .review-card h4 {
-    font-size: 14px;
+    font-size: 13px;
+  }
+  .verified img {
+    height: 18px;
+    font-size: 10px;
   }
   .ba-img {
     height: 30vw;
@@ -4322,7 +4316,7 @@ footer.main-footer {
   }
 
   .hero.bg-image {
-    padding: 50px 0;
+    padding: 50px 0 0;
   }
 
   .hero.bg-image .hero-content .section-title h1 {

@@ -51,6 +51,7 @@
   --dark-divider-color: #0e384c1a;
   --error-color: rgb(230, 87, 87);
   --default-font: "Poppins", sans-serif;
+  --vh: 1vh;
 }
 
 /************************************/
@@ -3328,6 +3329,9 @@ footer.main-footer {
   padding: 6px 10px;
   border-radius: 50%;
   font-size: 14px;
+}
+.cal-frame {
+  min-height: calc(var(--vh) * 100);
 }
 @media only screen and (max-width: 1024px) {
   .navbar {

@@ -174,7 +174,7 @@
     </div>
   </div>
   <section>
-    <iframe id="cal-frame" src="https://cal.com/sohil-vaghela-v4ymvd/15min?embed=true" width="100%"
+    <iframe class="cal-frame" height="600" src="https://cal.com/sohil-vaghela-v4ymvd/15min?embed=true" width="100%"
       style="border-radius: 12px; border: 1px solid #eee;">
     </iframe>
   </section>
@@ -1066,13 +1066,26 @@
       .catch((error) => console.log("Error:", error));
   </script>
   <script>
-    const iframe = document.getElementById("cal-frame");
+    function setVH() {
+      let vh;
 
-    window.addEventListener("message", function (e) {
-      if (e.data.type === "CALENDAR_HEIGHT") {
-        iframe.style.height = e.data.height + "px";
+      if (window.visualViewport) {
+        vh = window.visualViewport.height * 0.01;
+      } else {
+        vh = window.innerHeight * 0.01;
       }
-    });
+
+      document.documentElement.style.setProperty('--vh', `${vh}px`);
+    }
+
+    setVH();
+
+    window.addEventListener('resize', setVH);
+    window.addEventListener('orientationchange', setVH);
+
+    if (window.visualViewport) {
+      window.visualViewport.addEventListener('resize', setVH);
+    }
   </script>
 </body>
 
